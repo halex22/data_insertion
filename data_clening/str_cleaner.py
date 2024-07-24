@@ -1,12 +1,12 @@
 from typing import Callable, Union
 
-from int_cleaner import parse_str_to_number
+# from .int_cleaner import parse_str_to_number
 
-test_values = ['0.6m', '1.5m']
+test_values = ['0.6m', '1.5m', '146.45bj']
 
-def get_meter_value(value: str) -> float:
-    strip_value_from_unit(value=value)
-    return parse_str_to_number(value=value[:-1], format=float)
+# def get_meter_value(value: str) -> float:
+    # strip_value_from_unit(value=value)
+    # return parse_str_to_number(value=value[:-1], format=float)
 
 
 def strip_value_from_unit(value: str, format: Callable[[str], Union[int, float]])-> str:
@@ -18,6 +18,8 @@ def strip_value_from_unit(value: str, format: Callable[[str], Union[int, float]]
             break
         end -= 1
     return format(value[:end])
+
+
 
 
 if __name__ == '__main__':
