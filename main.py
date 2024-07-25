@@ -4,14 +4,16 @@ from pathlib import Path
 
 from data_clening import (get_abilities_list, get_types_list,
                           parse_str_to_number, strip_value_from_unit)
-from utils import PokedexData, PokemonDict
+from utils import (Breeding, CleanedBreeding, CleanedPokedexData,
+                   CleanedPokemonDict, CleanedTraining, PokedexData,
+                   PokemonDict, Training)
 from utils.enums import BaseStats
 
 DATA_DIR = Path("./json_data")
 NEW_DATA_DIR = Path("./clean json")
 # get the first file to test the code:
 test_file = next(os.scandir(DATA_DIR))
-new_data = {}
+new_data: CleanedPokemonDict = {}
 
 with open(test_file, mode="r", encoding="utf8") as file:
     cleaned_info: PokemonDict = {}
@@ -23,7 +25,7 @@ with open(test_file, mode="r", encoding="utf8") as file:
 
     # clean podex info
     raw_pokedex_data: PokedexData = pokemon_data.get("pokedex_data")
-    cleaned_podex_data: PokedexData = {}
+    cleaned_podex_data: CleanedPokedexData = {}
     cleaned_podex_data["species"] = raw_pokedex_data["species"]
     cleaned_podex_data["national"] = parse_str_to_number(
         raw_pokedex_data.get("national"), int
@@ -34,7 +36,7 @@ with open(test_file, mode="r", encoding="utf8") as file:
     )
 
     cleaned_podex_data["weight"] = strip_value_from_unit(
-        value=raw_pokedex_data["weight"], format=float)
+        value=raw_pokedex_data["weight"].split(" ")[0], format=float)
 
     cleaned_podex_data["abilities"] = get_abilities_list(
         raw_pokedex_data["abilities"])
