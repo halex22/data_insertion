@@ -17,7 +17,7 @@
       "sp_def": "55",
       "speed": "90"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Sp. Atk ",
       "catch_rate": " 200 (26.1% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -80,7 +80,7 @@
       "sp_def": "75",
       "speed": "130"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Speed ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -137,7 +137,7 @@
       "sp_def": "95",
       "speed": "120"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 3 Sp. Atk ",
       "catch_rate": " 50 (6.5% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -200,7 +200,7 @@
       "sp_def": "79",
       "speed": "80"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Attack ",
       "catch_rate": " 90 (11.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -253,7 +253,7 @@
       "sp_def": "80",
       "speed": "95"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Attack ",
       "catch_rate": " 75 (9.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -313,7 +313,7 @@
       "sp_def": "125",
       "speed": "85"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 3 Sp. Def ",
       "catch_rate": " 3 (0.4% with PokéBall, full HP) ",
       "base_friendship": " 35 (lower than normal) ",
@@ -365,7 +365,7 @@
       "sp_def": "80",
       "speed": "75"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Attack, 1 Sp. Def ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -416,7 +416,7 @@
       "sp_def": "30",
       "speed": "40"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Attack ",
       "catch_rate": " 255 (33.3% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -467,7 +467,7 @@
       "sp_def": "105",
       "speed": "78"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 3 Sp. Def ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -520,7 +520,7 @@
       "sp_def": "65",
       "speed": "45"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Sp. Atk ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -572,7 +572,7 @@
       "sp_def": "80",
       "speed": "70"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Sp. Atk, 1 Sp. Def ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -629,7 +629,7 @@
       "sp_def": "20",
       "speed": "45"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 HP ",
       "catch_rate": " 255 (33.3% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -686,7 +686,7 @@
       "sp_def": "105",
       "speed": "50"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 HP ",
       "catch_rate": " 30 (3.9% with PokéBall, full HP) ",
       "base_friendship": " 140 (higher than normal) ",
@@ -749,7 +749,7 @@
       "sp_def": "85",
       "speed": "100"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 3 Sp. Atk ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -802,7 +802,7 @@
       "sp_def": "50",
       "speed": "65"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Speed ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -855,7 +855,7 @@
       "sp_def": "65",
       "speed": "80"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Sp. Atk, 1 Speed ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -908,7 +908,7 @@
       "sp_def": "90",
       "speed": "60"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 3 HP ",
       "catch_rate": " 25 (3.3% with PokéBall, full HP) ",
       "base_friendship": " 140 (higher than normal) ",
@@ -970,7 +970,7 @@
       "sp_def": "65",
       "speed": "35"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 HP ",
       "catch_rate": " 150 (19.6% with PokéBall, full HP) ",
       "base_friendship": " 140 (higher than normal) ",
@@ -1032,7 +1032,7 @@
       "sp_def": "45",
       "speed": "70"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Defense ",
       "catch_rate": " 60 (7.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -1091,7 +1091,7 @@
       "sp_def": "50",
       "speed": "35"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Defense ",
       "catch_rate": " 190 (24.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -1148,7 +1148,7 @@
       "sp_def": "95",
       "speed": "70"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Sp. Def ",
       "catch_rate": " 75 (9.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -1202,7 +1202,7 @@
       "sp_def": "45",
       "speed": "95"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Speed ",
       "catch_rate": " 255 (33.3% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -1261,7 +1261,7 @@
       "sp_def": "48",
       "speed": "48"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 HP ",
       "catch_rate": " 35 (4.6% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -1321,7 +1321,7 @@
       "sp_def": "60",
       "speed": "110"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Attack ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -1374,7 +1374,7 @@
       "sp_def": "35",
       "speed": "75"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Attack ",
       "catch_rate": " 190 (24.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -1427,7 +1427,7 @@
       "sp_def": "70",
       "speed": "70"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Attack ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 35 (lower than normal) ",
@@ -1486,7 +1486,7 @@
       "sp_def": "100",
       "speed": "80"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 3 Attack ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 35 (lower than normal) ",
@@ -1545,7 +1545,7 @@
       "sp_def": "50",
       "speed": "50"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Attack ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 35 (lower than normal) ",
@@ -1604,7 +1604,7 @@
       "sp_def": "90",
       "speed": "42"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Sp. Def ",
       "catch_rate": " 190 (24.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -1661,7 +1661,7 @@
       "sp_def": "70",
       "speed": "120"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Speed ",
       "catch_rate": " 50 (6.5% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -1720,7 +1720,7 @@
       "sp_def": "65",
       "speed": "55"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Sp. Def ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -1782,7 +1782,7 @@
       "sp_def": "54",
       "speed": "55"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Attack ",
       "catch_rate": " 255 (33.3% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -1835,7 +1835,7 @@
       "sp_def": "85",
       "speed": "105"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Speed ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -1895,7 +1895,7 @@
       "sp_def": "80",
       "speed": "150"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Speed ",
       "catch_rate": " 60 (7.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -1950,7 +1950,7 @@
       "sp_def": "45",
       "speed": "40"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Defense ",
       "catch_rate": " 90 (11.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -2007,7 +2007,7 @@
       "sp_def": "75",
       "speed": "55"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Sp. Atk ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -2064,7 +2064,7 @@
       "sp_def": "62",
       "speed": "60"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Attack ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -2117,7 +2117,7 @@
       "sp_def": "61",
       "speed": "100"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Speed ",
       "catch_rate": " 90 (11.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -2173,7 +2173,7 @@
       "sp_def": "110",
       "speed": "65"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Attack ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -2235,7 +2235,7 @@
       "sp_def": "35",
       "speed": "80"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Sp. Atk ",
       "catch_rate": " 190 (24.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -2298,7 +2298,7 @@
       "sp_def": "75",
       "speed": "110"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 3 Sp. Atk ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -2361,7 +2361,7 @@
       "sp_def": "30",
       "speed": "20"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Defense ",
       "catch_rate": " 255 (33.3% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -2422,7 +2422,7 @@
       "sp_def": "75",
       "speed": "40"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Sp. Atk ",
       "catch_rate": " 120 (15.7% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -2477,7 +2477,7 @@
       "sp_def": "75",
       "speed": "90"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Speed ",
       "catch_rate": " 90 (11.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -2541,7 +2541,7 @@
       "sp_def": "50",
       "speed": "63"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Attack ",
       "catch_rate": " 225 (29.4% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -2603,7 +2603,7 @@
       "sp_def": "80",
       "speed": "85"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Sp. Atk ",
       "catch_rate": " 75 (9.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -2669,7 +2669,7 @@
       "sp_def": "65",
       "speed": "45"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 3 Defense ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -2731,7 +2731,7 @@
       "sp_def": "45",
       "speed": "35"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Defense ",
       "catch_rate": " 120 (15.7% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -2792,7 +2792,7 @@
       "sp_def": "50",
       "speed": "25"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 HP ",
       "catch_rate": " 190 (24.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -2852,7 +2852,7 @@
       "sp_def": "50",
       "speed": "60"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Attack ",
       "catch_rate": " 190 (24.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -2912,7 +2912,7 @@
       "sp_def": "100",
       "speed": "81"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Attack ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -2977,7 +2977,7 @@
       "sp_def": "55",
       "speed": "95"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Sp. Atk ",
       "catch_rate": " 90 (11.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -3040,7 +3040,7 @@
       "sp_def": "110",
       "speed": "76"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Sp. Def ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -3093,7 +3093,7 @@
       "sp_def": "110",
       "speed": "87"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Attack ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -3146,7 +3146,7 @@
       "sp_def": "25",
       "speed": "60"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Sp. Atk ",
       "catch_rate": " 225 (29.4% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -3201,7 +3201,7 @@
       "sp_def": "115",
       "speed": "67"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Sp. Def ",
       "catch_rate": " 75 (9.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -3258,7 +3258,7 @@
       "sp_def": "80",
       "speed": "60"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Sp. Atk, 1 Sp. Def ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -3311,7 +3311,7 @@
       "sp_def": "25",
       "speed": "20"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 HP ",
       "catch_rate": " 170 (22.2% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -3373,7 +3373,7 @@
       "sp_def": "95",
       "speed": "130"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Speed ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -3435,7 +3435,7 @@
       "sp_def": "95",
       "speed": "95"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Sp. Atk ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -3490,7 +3490,7 @@
       "sp_def": "45",
       "speed": "55"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Defense ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -3545,7 +3545,7 @@
       "sp_def": "70",
       "speed": "80"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Attack ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -3600,7 +3600,7 @@
       "sp_def": "70",
       "speed": "105"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Sp. Atk ",
       "catch_rate": " 100 (13.1% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -3663,7 +3663,7 @@
       "sp_def": "25",
       "speed": "35"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Defense ",
       "catch_rate": " 120 (15.7% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -3714,7 +3714,7 @@
       "sp_def": "80",
       "speed": "90"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 HP ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -3771,7 +3771,7 @@
       "sp_def": "50",
       "speed": "75"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Attack ",
       "catch_rate": " 60 (7.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -3824,7 +3824,7 @@
       "sp_def": "45",
       "speed": "35"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Defense ",
       "catch_rate": " 190 (24.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -3880,7 +3880,7 @@
       "sp_def": "25",
       "speed": "50"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Attack ",
       "catch_rate": " 225 (29.4% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -3933,7 +3933,7 @@
       "sp_def": "95",
       "speed": "60"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 HP ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -3991,7 +3991,7 @@
       "sp_def": "75",
       "speed": "30"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 HP ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -4049,7 +4049,7 @@
       "sp_def": "85",
       "speed": "55"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 3 Attack ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -4112,7 +4112,7 @@
       "sp_def": "60",
       "speed": "45"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Attack ",
       "catch_rate": " 90 (11.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -4175,7 +4175,7 @@
       "sp_def": "35",
       "speed": "35"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Attack ",
       "catch_rate": " 180 (23.5% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -4238,7 +4238,7 @@
       "sp_def": "20",
       "speed": "80"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Speed ",
       "catch_rate": " 255 (33.3% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -4303,7 +4303,7 @@
       "sp_def": "85",
       "speed": "93"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Sp. Atk ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -4363,7 +4363,7 @@
       "sp_def": "55",
       "speed": "45"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Sp. Atk ",
       "catch_rate": " 190 (24.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -4427,7 +4427,7 @@
       "sp_def": "70",
       "speed": "70"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Sp. Atk ",
       "catch_rate": " 60 (7.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -4491,7 +4491,7 @@
       "sp_def": "45",
       "speed": "70"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Attack ",
       "catch_rate": " 190 (24.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -4548,7 +4548,7 @@
       "sp_def": "80",
       "speed": "45"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Defense ",
       "catch_rate": " 75 (9.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -4605,7 +4605,7 @@
       "sp_def": "40",
       "speed": "90"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Speed ",
       "catch_rate": " 255 (33.3% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -4664,7 +4664,7 @@
       "sp_def": "25",
       "speed": "30"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Defense ",
       "catch_rate": " 120 (15.7% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -4721,7 +4721,7 @@
       "sp_def": "100",
       "speed": "100"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 3 HP ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 100 (higher than normal) ",
@@ -4774,7 +4774,7 @@
       "sp_def": "90",
       "speed": "130"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 3 Sp. Atk ",
       "catch_rate": " 3 (0.4% with PokéBall, full HP) ",
       "base_friendship": " 0 (lower than normal) ",
@@ -4827,7 +4827,7 @@
       "sp_def": "85",
       "speed": "90"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 3 Sp. Atk ",
       "catch_rate": " 3 (0.4% with PokéBall, full HP) ",
       "base_friendship": " 35 (lower than normal) ",
@@ -4880,7 +4880,7 @@
       "sp_def": "120",
       "speed": "90"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Sp. Def ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -4939,7 +4939,7 @@
       "sp_def": "100",
       "speed": "50"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 HP, 1 Attack ",
       "catch_rate": " 75 (9.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -4999,7 +4999,7 @@
       "sp_def": "75",
       "speed": "85"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 3 Attack ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -5052,7 +5052,7 @@
       "sp_def": "85",
       "speed": "76"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 3 HP ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -5105,7 +5105,7 @@
       "sp_def": "40",
       "speed": "41"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 HP ",
       "catch_rate": " 235 (30.7% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -5158,7 +5158,7 @@
       "sp_def": "40",
       "speed": "50"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Attack ",
       "catch_rate": " 235 (30.7% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -5211,7 +5211,7 @@
       "sp_def": "55",
       "speed": "56"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 HP ",
       "catch_rate": " 120 (15.7% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -5264,7 +5264,7 @@
       "sp_def": "55",
       "speed": "65"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Attack ",
       "catch_rate": " 120 (15.7% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -5317,7 +5317,7 @@
       "sp_def": "100",
       "speed": "100"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Sp. Def, 1 Speed ",
       "catch_rate": " 75 (9.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -5378,7 +5378,7 @@
       "sp_def": "65",
       "speed": "30"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Sp. Atk ",
       "catch_rate": " 255 (33.3% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -5433,7 +5433,7 @@
       "sp_def": "55",
       "speed": "35"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Defense ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -5488,7 +5488,7 @@
       "sp_def": "70",
       "speed": "55"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Defense ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -5543,7 +5543,7 @@
       "sp_def": "45",
       "speed": "70"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Defense ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -5601,7 +5601,7 @@
       "sp_def": "55",
       "speed": "25"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Attack ",
       "catch_rate": " 190 (24.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -5658,7 +5658,7 @@
       "sp_def": "80",
       "speed": "30"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Attack, 1 Defense ",
       "catch_rate": " 75 (9.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -5716,7 +5716,7 @@
       "sp_def": "65",
       "speed": "115"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Speed ",
       "catch_rate": " 90 (11.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -5775,7 +5775,7 @@
       "sp_def": "70",
       "speed": "101"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 3 Speed ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -5826,7 +5826,7 @@
       "sp_def": "50",
       "speed": "71"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Speed ",
       "catch_rate": " 120 (15.7% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -5877,7 +5877,7 @@
       "sp_def": "35",
       "speed": "56"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Speed ",
       "catch_rate": " 255 (33.3% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -5928,7 +5928,7 @@
       "sp_def": "50",
       "speed": "90"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Speed ",
       "catch_rate": " 190 (24.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -5993,7 +5993,7 @@
       "sp_def": "70",
       "speed": "85"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Attack ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -6053,7 +6053,7 @@
       "sp_def": "40",
       "speed": "90"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Speed ",
       "catch_rate": " 255 (33.3% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -6110,7 +6110,7 @@
       "sp_def": "50",
       "speed": "90"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Speed ",
       "catch_rate": " 120 (15.7% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -6167,7 +6167,7 @@
       "sp_def": "90",
       "speed": "70"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 3 Defense ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -6224,7 +6224,7 @@
       "sp_def": "65",
       "speed": "90"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Speed ",
       "catch_rate": " 190 (24.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -6281,7 +6281,7 @@
       "sp_def": "75",
       "speed": "40"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Sp. Atk ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -6340,7 +6340,7 @@
       "sp_def": "70",
       "speed": "95"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Attack ",
       "catch_rate": " 75 (9.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -6397,7 +6397,7 @@
       "sp_def": "50",
       "speed": "55"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Sp. Atk ",
       "catch_rate": " 190 (24.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -6463,7 +6463,7 @@
       "sp_def": "80",
       "speed": "110"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 3 Speed ",
       "catch_rate": " 75 (9.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -6528,7 +6528,7 @@
       "sp_def": "80",
       "speed": "105"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Speed ",
       "catch_rate": " 60 (7.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -6585,7 +6585,7 @@
       "sp_def": "70",
       "speed": "97"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Speed ",
       "catch_rate": " 127 (16.6% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -6641,7 +6641,7 @@
       "sp_def": "35",
       "speed": "72"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Speed ",
       "catch_rate": " 255 (33.3% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -6697,7 +6697,7 @@
       "sp_def": "45",
       "speed": "40"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Attack ",
       "catch_rate": " 60 (7.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -6754,7 +6754,7 @@
       "sp_def": "30",
       "speed": "25"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Defense ",
       "catch_rate": " 120 (15.7% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -6811,7 +6811,7 @@
       "sp_def": "30",
       "speed": "40"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Defense ",
       "catch_rate": " 255 (33.3% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -6871,7 +6871,7 @@
       "sp_def": "55",
       "speed": "65"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Defense ",
       "catch_rate": " 90 (11.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -6931,7 +6931,7 @@
       "sp_def": "80",
       "speed": "105"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Attack ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -6992,7 +6992,7 @@
       "sp_def": "45",
       "speed": "85"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Defense, 1 Sp. Atk ",
       "catch_rate": " 75 (9.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -7048,7 +7048,7 @@
       "sp_def": "80",
       "speed": "68"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Attack ",
       "catch_rate": " 60 (7.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -7110,7 +7110,7 @@
       "sp_def": "70",
       "speed": "45"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Sp. Def ",
       "catch_rate": " 190 (24.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -7164,7 +7164,7 @@
       "sp_def": "25",
       "speed": "40"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Defense ",
       "catch_rate": " 190 (24.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -7223,7 +7223,7 @@
       "sp_def": "80",
       "speed": "30"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Defense ",
       "catch_rate": " 75 (9.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -7282,7 +7282,7 @@
       "sp_def": "40",
       "speed": "15"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 HP ",
       "catch_rate": " 190 (24.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -7341,7 +7341,7 @@
       "sp_def": "110",
       "speed": "30"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 HP ",
       "catch_rate": " 25 (3.3% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -7402,7 +7402,7 @@
       "sp_def": "31",
       "speed": "70"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Speed ",
       "catch_rate": " 255 (33.3% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -7457,7 +7457,7 @@
       "sp_def": "64",
       "speed": "43"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Defense ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -7511,7 +7511,7 @@
       "sp_def": "85",
       "speed": "115"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Speed ",
       "catch_rate": " 60 (7.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -7571,7 +7571,7 @@
       "sp_def": "55",
       "speed": "85"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Speed ",
       "catch_rate": " 225 (29.4% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -7631,7 +7631,7 @@
       "sp_def": "40",
       "speed": "60"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Defense ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -7687,7 +7687,7 @@
       "sp_def": "70",
       "speed": "110"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Attack, 1 Speed ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -7746,7 +7746,7 @@
       "sp_def": "100",
       "speed": "70"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Sp. Def ",
       "catch_rate": " 190 (24.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -7809,7 +7809,7 @@
       "sp_def": "120",
       "speed": "100"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Sp. Def ",
       "catch_rate": " 60 (7.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -7872,7 +7872,7 @@
       "sp_def": "95",
       "speed": "65"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 HP ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -7934,7 +7934,7 @@
       "sp_def": "75",
       "speed": "90"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Sp. Atk, 1 Speed ",
       "catch_rate": " 75 (9.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -7987,7 +7987,7 @@
       "sp_def": "55",
       "speed": "45"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Sp. Def ",
       "catch_rate": " 190 (24.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -8040,7 +8040,7 @@
       "sp_def": "100",
       "speed": "80"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Sp. Atk, 1 Sp. Def ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -8093,7 +8093,7 @@
       "sp_def": "70",
       "speed": "70"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 3 Attack ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -8145,7 +8145,7 @@
       "sp_def": "90",
       "speed": "50"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 3 Sp. Atk ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -8200,7 +8200,7 @@
       "sp_def": "55",
       "speed": "100"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Speed ",
       "catch_rate": " 190 (24.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -8256,7 +8256,7 @@
       "sp_def": "65",
       "speed": "65"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Speed ",
       "catch_rate": " 190 (24.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -8317,7 +8317,7 @@
       "sp_def": "80",
       "speed": "58"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Defense, 1 Sp. Def ",
       "catch_rate": " 45 (5.9% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -8370,7 +8370,7 @@
       "sp_def": "20",
       "speed": "50"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Speed ",
       "catch_rate": " 255 (33.3% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -8421,7 +8421,7 @@
       "sp_def": "45",
       "speed": "55"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Attack ",
       "catch_rate": " 120 (15.7% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -8472,7 +8472,7 @@
       "sp_def": "70",
       "speed": "60"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 2 Defense ",
       "catch_rate": " 60 (7.8% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -8528,7 +8528,7 @@
       "sp_def": "50",
       "speed": "45"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 3 HP ",
       "catch_rate": " 50 (6.5% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",
@@ -8590,7 +8590,7 @@
       "sp_def": "90",
       "speed": "100"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 3 Sp. Atk ",
       "catch_rate": " 3 (0.4% with PokéBall, full HP) ",
       "base_friendship": " 35 (lower than normal) ",
@@ -8643,7 +8643,7 @@
       "sp_def": "40",
       "speed": "55"
     },
-    "trainig": {
+    "training": {
       "ev_yield": " 1 Speed ",
       "catch_rate": " 255 (33.3% with PokéBall, full HP) ",
       "base_friendship": " 50 (normal) ",

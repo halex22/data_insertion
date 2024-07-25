@@ -60,6 +60,6 @@ class PokemonDict(TypedDict):
 class CleanedPokemonDict(TypedDict):
     pokedex_data: CleanedPokedexData
     base_stats: str
-    training: CleanedTraining
+    trainig: CleanedTraining
     breeding: CleanedBreeding
     pokedex_entries: str

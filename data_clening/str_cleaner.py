@@ -1,15 +1,7 @@
 from typing import Callable, Union
 
-# from .int_cleaner import parse_str_to_number
 
-test_values = ['0.6m', '1.5m', '146.45bj']
-
-# def get_meter_value(value: str) -> float:
-    # strip_value_from_unit(value=value)
-    # return parse_str_to_number(value=value[:-1], format=float)
-
-
-def strip_value_from_unit(value: str, format: Callable[[str], Union[int, float]])-> str:
+def strip_value_from_unit(value: str, format: Callable[[str], Union[int, float]]) -> str:
     end = len(value)
     has_found_number = False
     while not has_found_number:
@@ -20,8 +12,35 @@ def strip_value_from_unit(value: str, format: Callable[[str], Union[int, float]]
     return format(value[:end])
 
 
+def clean_name_end(value: str) -> str:
+    """Removes not alpha character at the end"""
+    current_index = -1
+    max_index = (- len(value))
+    while current_index > max_index:
+        if value[current_index].isalpha():
+            break
+        current_index -= 1
+    return value[max_index: current_index + 1]
+
+
+def clean_name_start(value: str) -> str:
+    """Removes non alpha characters at the beggining"""
+    start = 0
+    max_index = len(value)
+    while start < max_index:
+        if value[start].isalpha():
+            break
+        start += 1
+
+    return value[start:]
+
+
+def format_name(value: str) -> str:
+    """Simple function to remove blank ppaces and dots"""
+    if value[-1] == ' ':
+        value = value[:-1]
+    return value.replace('.', '').replace(' ', '_')
 
 
 if __name__ == '__main__':
-    for _ in test_values:
-        print(strip_value_from_unit(_, float))
+    ...
