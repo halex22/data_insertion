@@ -1,8 +1,8 @@
 from typing import Dict, Union
 
 # add point
-from str_cleaner import (clean_name_end, clean_name_start, format_name,
-                         strip_value_from_unit)
+from .str_cleaner import (clean_name_end, clean_name_start, format_name,
+                          strip_value_from_unit)
 
 
 def ev_cleaner(value: str) -> Dict[str, int]:
@@ -17,8 +17,11 @@ def ev_cleaner(value: str) -> Dict[str, int]:
 def dict_with_cats(value: str) -> Dict[str, Union[int, str]]:
     """To clean base_friendship and egg clycles"""
     result = {}
-    result['category'] = clean_name_end(value.split('(')[1])
-    result['value'] = int(value.split('(')[0])
+    try:
+        result['category'] = clean_name_end(value.split('(')[1])
+        result['value'] = int(value.split('(')[0])
+    except IndexError:
+        result['category'] = None
     return result
 
 
@@ -26,9 +29,12 @@ def clean_gender(value: str) -> Dict[str, Union[int, str]]:
     values = value.split(',')
     result = {}
     for v in values:
-        value, gender = [_ for _ in v.split(' ') if _]
-        result[gender.lower()] = strip_value_from_unit(
-            value=value, format=float)
+        try:
+            value, gender = [_ for _ in v.split(' ') if _]
+            result[gender.lower()] = strip_value_from_unit(
+                value=value, format=float)
+        except ValueError:
+            result['genderless'] = 100
     return result
 
 
