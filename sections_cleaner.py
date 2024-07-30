@@ -1,6 +1,7 @@
 from data_clening import (cath_rate, clean_gender, dict_with_cats, ev_cleaner,
                           get_abilities_list, get_types_list,
-                          parse_str_to_number, strip_value_from_unit)
+                          local_pokedex_cleaner, parse_str_to_number,
+                          strip_value_from_unit)
 from utils import (Breeding, CleanedBreeding, CleanedPokedexData,
                    CleanedTraining, PokedexData, Training)
 from utils.enums import BaseStats
@@ -22,6 +23,9 @@ def clean_pokedex_data(raw_pokedex_data: PokedexData) -> CleanedPokedexData:
 
     cleaned_podex_data["abilities"] = get_abilities_list(
         raw_pokedex_data["abilities"])
+    cleaned_podex_data["local"] = local_pokedex_cleaner(
+        raw_pokedex_data["local"]
+    )
     
     return cleaned_podex_data
 

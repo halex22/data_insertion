@@ -48,6 +48,23 @@ def cath_rate(value: str) -> Dict[str, Union[int, str]]:
     return result
 
 
-if __name__ == '__main__':
+def local_pokedex_cleaner(value: str) -> Dict[str, int]:
+    result = {}
+    values = value.split(')')[:-1]
+    for _ in values:
+        pokemon_index, keys = _.split('(')
+        separated_kyes = [_ for _ in keys.split('/')]
+        for key in separated_kyes:
+            if ' — ' in key:
+                parts = key.split(' — ')
+                for part in parts:
+                    result[part.strip()] = int(pokemon_index)
+            else:
+                result[key.strip()] = int(pokemon_index)
+    return result
 
-    print(cath_rate(' 60 (7.8% with PokéBall, full HP) '))
+
+if __name__ == '__main__':
+    local = "0144 (Red/Blue/Yellow)0235 (Gold/Silver/Crystal)0144 (FireRed/LeafGreen)0240 (HeartGold/SoulSilver)0151 (X/Y — Coastal Kalos)0144 (Let's Go Pikachu/Let's Go Eevee)0202 (The Crown Tundra)"
+    # print(cath_rate(' 60 (7.8% with PokéBall, full HP) '))
+    print(local_pokedex_cleaner(local))
