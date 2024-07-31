@@ -64,6 +64,10 @@ def local_pokedex_cleaner(value: str) -> Dict[str, int]:
     return result
 
 
+def pokedex_entry_cleaner(value: str) -> Dict[str, str]:
+    ...
+
+
 if __name__ == '__main__':
     local = "0144 (Red/Blue/Yellow)0235 (Gold/Silver/Crystal)0144 (FireRed/LeafGreen)0240 (HeartGold/SoulSilver)0151 (X/Y — Coastal Kalos)0144 (Let's Go Pikachu/Let's Go Eevee)0202 (The Crown Tundra)"
     # print(cath_rate(' 60 (7.8% with PokéBall, full HP) '))
