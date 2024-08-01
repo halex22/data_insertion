@@ -73,7 +73,62 @@
             "Sword": "It launches water bubbles with its legs, drowning prey within the bubbles. This Pokémon can then take its time to savor its meal.",
             "Shield": "It acts as a caretaker for Dewpider, putting them inside its bubble and letting them eat any leftover food."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "no effect": 0.0
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/araquanid.jpg"
     },
     "bewear": {
@@ -148,7 +203,62 @@
             "Sword": "Once it accepts you as a friend, it tries to show its affection with a hug. Letting it do that is dangerous—it could easily shatter your bones.",
             "Shield": "The moves it uses to take down its prey would make a martial artist jealous. It tucks subdued prey under its arms to carry them to its nest."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "super-effective": 2.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/bewear.jpg"
     },
     "blacephalon": {
@@ -213,7 +323,62 @@
             "Ultra Sun": "It slithers toward people. Then, without warning, it triggers the explosion of its own head. It’s apparently one kind of Ultra Beast.",
             "Ultra Moon": "A UB that appeared from an Ultra Wormhole, it causes explosions, then takes advantage of opponents’ surprise to rob them of their vitality."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "no effect": 0.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "no effect": 0.0
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.25
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/blacephalon.jpg"
     },
     "bounsweet": {
@@ -292,7 +457,62 @@
             "Scarlet": "Its sweat is sweet, like syrup made from boiled-down fruit. Because of this, Bounsweet was highly valued in the past, when sweeteners were scarce.",
             "Violet": "A Greedent drawn in by the sweet scent of these Pokémon will tuck the Bounsweet in among the berries in its tail and carry them all away."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/bounsweet.jpg"
     },
     "brionne": {
@@ -366,7 +586,62 @@
             "Sword": "As if dancing, it artfully dodges the attacks of its enemies. All the while, it’s busy forming a bunch of balloons to overwhelm its foes.",
             "Shield": "On nights when the sea is calm, Brionne dance with one another to the singing of the Primarina that’s leading them."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/brionne.jpg"
     },
     "bruxish": {
@@ -442,7 +717,62 @@
             "Scarlet": "It grinds its teeth with great force to stimulate its brain. It fires the psychic energy created by this process from the protuberance on its head.",
             "Violet": "When sunlight reflects on the ripples created by a Bruxish grinding its teeth, the water all around sparkles brilliantly."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/bruxish.jpg"
     },
     "buzzwole": {
@@ -512,7 +842,62 @@
             "Ultra Sun": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",
             "Ultra Moon": "Buzzwole goes around showing off its abnormally swollen muscles. It is one kind of Ultra Beast."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 4.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "super-effective": 2.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/buzzwole.jpg"
     },
     "celesteela": {
@@ -583,7 +968,62 @@
             "Ultra Sun": "One of the dangerous UBs, high energy readings can be detected coming from both of its huge arms.",
             "Ultra Moon": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "not very effective": 0.5
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "not very effective": 0.25
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "no effect": 0.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "not very effective": 0.25
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "not very effective": 0.5
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/celesteela.jpg"
     },
     "charjabug": {
@@ -658,7 +1098,62 @@
             "Sword": "While its durable shell protects it from attacks, Charjabug strikes at enemies with jolts of electricity discharged from the tips of its jaws.",
             "Shield": "Its digestive processes convert the leaves it eats into electricity. An electric sac in its belly stores the electricity for later use."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/charjabug.jpg"
     },
     "comfey": {
@@ -733,7 +1228,62 @@
             "Sword": "Comfey picks flowers with its vine and decorates itself with them. For some reason, flowers won’t wither once they’re attached to a Comfey.",
             "Shield": "These Pokémon smell very nice. All Comfey wear different flowers, so each of these Pokémon has its own individual scent."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "no effect": 0.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/comfey.jpg"
     },
     "cosmoem": {
@@ -805,7 +1355,62 @@
             "Sword": "The absorption of starlight fuels this Pokémon’s growth. The shell that encases it is harder than any known material.",
             "Shield": "It sucks in dust from the air at an astounding rate, frantically building up energy within its core as preparation for evolution."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/cosmoem.jpg"
     },
     "cosmog": {
@@ -876,7 +1481,62 @@
             "Sword": "This Pokémon came from another universe. Its gaseous body is so light that even a gentle breeze can blow it away.",
             "Shield": "Cosmog is very curious but not very cautious, often placing itself in danger. If things start to look dicey, it teleports away."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/cosmog.jpg"
     },
     "crabominable": {
@@ -952,7 +1612,62 @@
             "Scarlet": "The detached pincers of these Pokémon are delicious. Some Trainers bring Lechonk into the mountains just to search for them.",
             "Violet": "Though its punches are powerful, this Pokémon’s movements are sluggish. It blows icy bubbles from its mouth to immobilize its opponents."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "super-effective": 2.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/crabominable.jpg"
     },
     "crabrawler": {
@@ -1028,7 +1743,62 @@
             "Scarlet": "This Pokémon punches trees and eats the berries that drop down, training itself and getting food at the same time.",
             "Violet": "If it loses its pincers, they’ll quickly regrow. The pincers are popular ingredients in paella since their shells produce a tasty soup stock."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "super-effective": 2.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/crabrawler.jpg"
     },
     "cutiefly": {
@@ -1104,7 +1874,62 @@
             "Sword": "Nectar and pollen are its favorite fare. You can find Cutiefly hovering around Gossifleur, trying to get some of Gossifleur’s pollen.",
             "Shield": "An opponent’s aura can tell Cutiefly what that opponent’s next move will be. Then Cutiefly can glide around the attack and strike back."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.25
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "no effect": 0.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/cutiefly.jpg"
     },
     "dartrix": {
@@ -1179,7 +2004,62 @@
             "Shield": "It never slacks when it comes to the task of cleaning its feathers. Thorough preening keeps it looking spiffy and its blade quills nice and sharp.",
             "Legends: Arceus": "Regularly basks in sunlight to gather power—presumably due to the frigid climate. Nonetheless, the edges of the blade quills set into its wings are keen as ever."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.25
+            },
+            "ice": {
+                "super-effective": 4.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/dartrix.jpg"
     },
     "decidueye": {
@@ -1253,7 +2133,62 @@
             "Sword": "As if wielding a bow, it launches the arrow quills hidden among the feathers of its wings. Decidueye’s shots never miss.",
             "Shield": "In a tenth of a second, it can nock and fire an arrow quill, piercing an opponent’s weak point before they notice what’s happening."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 4.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "super-effective": 2.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/decidueye.jpg"
     },
     "dewpider": {
@@ -1330,7 +2265,62 @@
             "Sword": "It forms a water bubble at the rear of its body and then covers its head with it. Meeting another Dewpider means comparing water-bubble sizes.",
             "Shield": "Dewpider normally lives underwater. When it comes onto land in search of food, it takes water with it in the form of a bubble on its head."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "no effect": 0.0
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/dewpider.jpg"
     },
     "dhelmise": {
@@ -1404,7 +2394,62 @@
             "Sword": "After a piece of seaweed merged with debris from a sunken ship, it was reborn as this ghost Pokémon.",
             "Shield": "After lowering its anchor, it waits for its prey. It catches large Wailord and drains their life-force."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "no effect": 0.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "no effect": 0.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/dhelmise.jpg"
     },
     "drampa": {
@@ -1479,7 +2524,62 @@
             "Sword": "The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.",
             "Shield": "Drampa is a kind and friendly Pokémon—up until it’s angered. When that happens, it stirs up a gale and flattens everything around."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "super-effective": 2.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "super-effective": 2.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/drampa.jpg"
     },
     "fomantis": {
@@ -1557,7 +2657,62 @@
             "Scarlet": "Fomantis hates having its naps interrupted. It fires off beams using energy it gathers by bathing in the sun.",
             "Violet": "Many Trainers give their Fomantis their own flowerpots so they can sunbathe in peace and quiet."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/fomantis.jpg"
     },
     "golisopod": {
@@ -1633,7 +2788,62 @@
             "Sword": "It will do anything to win, taking advantage of every opening and finishing opponents off with the small claws on its front legs.",
             "Shield": "They live in sunken ships or in holes in the seabed. When Golisopod and Grapploct battle, the loser becomes the winner’s meal."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/golisopod.jpg"
     },
     "grubbin": {
@@ -1708,7 +2918,62 @@
             "Sword": "Its natural enemies, like Rookidee, may flee rather than risk getting caught in its large mandibles that can snap thick tree branches.",
             "Shield": "It uses its big jaws to dig nests into the forest floor, and it loves to feed on sweet tree sap."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/grubbin.jpg"
     },
     "gumshoos": {
@@ -1783,7 +3048,62 @@
             "Scarlet": "Once it finds signs of prey, it will patiently stake out the location, waiting until the sun goes down.",
             "Violet": "Gumshoos specializes in relentlessly tracking down prey. The simple-minded Skwovet doesn’t seem to provide Gumshoos enough challenge."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/gumshoos.jpg"
     },
     "guzzlord": {
@@ -1852,7 +3172,62 @@
             "Ultra Sun": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",
             "Ultra Moon": "An unknown life-form called a UB. It may be constantly hungry—it is certainly always devouring something."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "no effect": 0.0
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "not very effective": 0.5
+            },
+            "dragon": {
+                "super-effective": 2.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "super-effective": 4.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/guzzlord.jpg"
     },
     "hakamo-o": {
@@ -1929,7 +3304,62 @@
             "Sword": "The scaleless, scarred parts of its body are signs of its strength. It shows them off to defeated opponents.",
             "Shield": "Before attacking its enemies, it clashes its scales together and roars. Its sharp claws shred the opposition."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "super-effective": 2.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "super-effective": 4.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/hakamo-o.jpg"
     },
     "incineroar": {
@@ -2002,7 +3432,62 @@
             "Sword": "It excels at violent, no-holds-barred battles. The temperature of the flames that issue from its navel exceeds 3,600 degrees Fahrenheit.",
             "Shield": "Incineroar’s rough and aggressive behavior is its most notable trait, but the way it helps out small Pokémon shows that it has a kind side as well."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "no effect": 0.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "not very effective": 0.5
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/incineroar.jpg"
     },
     "jangmo-o": {
@@ -2079,7 +3564,62 @@
             "Sword": "They learn to fight by smashing their head scales together. The dueling strengthens both their skills and their spirits.",
             "Shield": "Jangmo-o strikes its scales to communicate with others of its kind. Its scales are actually fur that’s become as hard as metal."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "super-effective": 2.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "super-effective": 2.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/jangmo-o.jpg"
     },
     "kartana": {
@@ -2148,7 +3688,62 @@
             "Ultra Sun": "This Ultra Beast’s body, which is as thin as paper, is like a sharpened sword.",
             "Ultra Moon": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "not very effective": 0.5
+            },
+            "fire": {
+                "super-effective": 4.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.25
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "no effect": 0.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "not very effective": 0.5
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/kartana.jpg"
     },
     "komala": {
@@ -2222,7 +3817,62 @@
             "Scarlet": "Komala spends its entire life sleeping. It feeds on leaves that contain a potent poison only Komala can break down.",
             "Violet": "A potent anesthetic can be made by diluting Komala’s drool. This anesthetic was used for surgeries in the past."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/komala.jpg"
     },
     "kommo-o": {
@@ -2299,7 +3949,62 @@
             "Sword": "It clatters its tail scales to unnerve opponents. This Pokémon will battle only those who stand steadfast in the face of this display.",
             "Shield": "Certain ruins have paintings of ancient warriors wearing armor made of Kommo-o scales."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "super-effective": 2.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "super-effective": 4.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/kommo-o.jpg"
     },
     "litten": {
@@ -2372,7 +4077,62 @@
             "Sword": "It spends even the smallest amount of downtime grooming its fur with its tongue. Loose fur gathers in its stomach and serves as fuel for fiery moves.",
             "Shield": "Trying to pet Litten before it trusts you will result in a nasty scratch from its sharp claws. Be careful."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/litten.jpg"
     },
     "lunala": {
@@ -2443,7 +4203,62 @@
             "Sword": "Known as the Beast That Calls the Moon, this Pokémon lives by taking in any and all light and converting it into its own energy.",
             "Shield": "It steals the light from its surroundings and then becomes the full moon, showering its own light across the night sky."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "no effect": 0.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "no effect": 0.0
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "super-effective": 4.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "super-effective": 4.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/lunala.jpg"
     },
     "lurantis": {
@@ -2521,7 +4336,62 @@
             "Scarlet": "By masquerading as a bug Pokémon, it lowers the guard of actual bug Pokémon lured in by a scent of sweet flowers. Its sickles bring them down.",
             "Violet": "A lot of time and effort is required to maintain the vivid colors of its petals. This Pokémon puts its Trainer’s attentiveness to the test."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/lurantis.jpg"
     },
     "lycanroc": {
@@ -2600,7 +4470,62 @@
             "Scarlet": "Lycanroc attacks its prey with its sharp claws and fangs. It loyally obeys the instructions of a Trainer it trusts.",
             "Violet": "It has a calm and collected demeanor. It swiftly closes in on its prey, then slices them with the rocks in its mane."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "not very effective": 0.5
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/lycanroc-midday.jpg"
     },
     "magearna": {
@@ -2669,7 +4594,62 @@
             "Ultra Sun": "It synchronizes its consciousness with others to understand their feelings. This faculty makes it useful for taking care of people.",
             "Ultra Moon": "Built roughly 500 years ago by a scientist, the part called the Soul-Heart is the actual life-form."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "not very effective": 0.5
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "no effect": 0.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "not very effective": 0.25
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "no effect": 0.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/magearna.jpg"
     },
     "mareanie": {
@@ -2749,7 +4729,62 @@
             "Scarlet": "This Pokémon wanders the seaside looking for food. It often gets electric shocks from broken Pincurchin spines that it tries to eat.",
             "Violet": "It has excellent regenerative capabilities. Legs that a Mareanie has lost have a very bitter, astringent flavor—they’re not suitable as food."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/mareanie.jpg"
     },
     "marshadow": {
@@ -2821,7 +4856,62 @@
             "Sword": "By slipping into the shadow of a martial arts master and copying their movements, this Pokémon learned the ultimate techniques.",
             "Shield": "This Pokémon can conceal itself in any shadow, so it went undiscovered for a long time."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "no effect": 0.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "no effect": 0.0
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.25
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "super-effective": 2.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/marshadow.jpg"
     },
     "melmetal": {
@@ -2886,7 +4976,62 @@
             "Sword": "At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan.",
             "Shield": "Centrifugal force is behind the punches of Melmetal’s heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "not very effective": 0.5
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "no effect": 0.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "not very effective": 0.5
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/melmetal.jpg"
     },
     "meltan": {
@@ -2951,7 +5096,62 @@
             "Sword": "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.",
             "Shield": "They live as a group, but when the time comes, one strong Meltan will absorb all the others and evolve."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "not very effective": 0.5
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "no effect": 0.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "not very effective": 0.5
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/meltan.jpg"
     },
     "mimikyu": {
@@ -3031,7 +5231,62 @@
             "Scarlet": "Even as it struggles beneath the cloth to repair the broken neck of its disguise, Mimikyu keeps up its impersonation of Pikachu.",
             "Violet": "It has taken damage and can no longer hold the head of its cloth disguise upright. For as long as it lives, Mimikyu will never forget its attacker."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "no effect": 0.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "no effect": 0.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.25
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "no effect": 0.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/mimikyu.jpg"
     },
     "minior": {
@@ -3102,7 +5357,62 @@
             "Ultra Sun": "It lives in the ozone layer, where it becomes food for stronger Pokémon. When it tries to run away, it falls to the ground.",
             "Ultra Moon": "Although its outer shell is uncommonly durable, the shock of falling to the ground smashes the shell to smithereens."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "not very effective": 0.5
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/minior-meteor.jpg"
     },
     "morelull": {
@@ -3177,7 +5487,62 @@
             "Sword": "Pokémon living in the forest eat the delicious caps on Morelull’s head. The caps regrow overnight.",
             "Shield": "Morelull live in forests that stay dark even during the day. They scatter flickering spores that put enemies to sleep."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "super-effective": 4.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "no effect": 0.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/morelull.jpg"
     },
     "mudbray": {
@@ -3257,7 +5622,62 @@
             "Scarlet": "This Pokémon covers itself in mud that it has regurgitated. The mud won’t dry out even if it’s exposed to the sun for a long time.",
             "Violet": "Though a slow walker, Mudbray is plenty strong. Its pace doesn’t change even when it’s loaded with 50 times its own body weight."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "no effect": 0.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/mudbray.jpg"
     },
     "mudsdale": {
@@ -3337,7 +5757,62 @@
             "Scarlet": "This Pokémon has been treasured not just for its physical labor but also because it produces high-quality mud used for making pottery.",
             "Violet": "Its legs are fortified with mud and harder than stone, and they can reduce a large truck to scrap with one kick."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "no effect": 0.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/mudsdale.jpg"
     },
     "naganadel": {
@@ -3402,7 +5877,62 @@
             "Ultra Sun": "It stores hundreds of liters of poisonous liquid inside its body. It is one of the organisms known as UBs.",
             "Ultra Moon": "One kind of Ultra Beast, it fires a glowing, venomous liquid from its needles. This liquid is also immensely adhesive."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.25
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "super-effective": 2.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/naganadel.jpg"
     },
     "necrozma": {
@@ -3474,7 +6004,62 @@
             "Sword": "It survives by absorbing light. After a long time spent slumbering underground, impurities accumulated within it, causing its body to darken.",
             "Shield": "It needs light to survive, and it goes on a rampage seeking it out. Its laser beams will cut anything to pieces."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "super-effective": 2.0
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "super-effective": 2.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/necrozma.jpg"
     },
     "nihilego": {
@@ -3543,7 +6128,62 @@
             "Ultra Sun": "A life-form from another world, it was dubbed a UB and is thought to produce a strong neurotoxin.",
             "Ultra Moon": "It appeared in this world from an Ultra Wormhole. Nihilego appears to be a parasite that lives by feeding on people and Pokémon."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "not very effective": 0.5
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "not very effective": 0.25
+            },
+            "ground": {
+                "super-effective": 4.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/nihilego.jpg"
     },
     "oranguru": {
@@ -3623,7 +6263,62 @@
             "Scarlet": "People used to mistake Oranguru for a human when they saw it issue command after command to the other Pokémon of the forest.",
             "Violet": "This Pokémon lives quietly in the depths of the forest. The purple, cape-like fur gets longer and longer as Oranguru ages."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/oranguru.jpg"
     },
     "oricorio": {
@@ -3699,7 +6394,62 @@
             "Scarlet": "This Pokémon is incredibly popular, possibly because its passionate dancing is a great match with the temperament of Paldean people.",
             "Violet": "This form of Oricorio has sipped red nectar. It whips up blazing flames as it moves to the steps of its passionate dance."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "no effect": 0.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "no effect": 0.0
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.25
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/oricorio-baile.jpg"
     },
     "palossand": {
@@ -3776,7 +6526,62 @@
             "Scarlet": "The terrifying Palossand drags smaller Pokémon into its sandy body. Once its victims are trapped, it drains them of their vitality whenever it pleases.",
             "Violet": "From the hollows in its arms, it fires the bones of its victims, which are all dried up after being drained of their vitality."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "no effect": 0.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "no effect": 0.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "no effect": 0.0
+            },
+            "poison": {
+                "not very effective": 0.25
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/palossand.jpg"
     },
     "passimian": {
@@ -3855,7 +6660,62 @@
             "Scarlet": "This Pokémon battles by throwing hard berries. It won’t obey a Trainer who throws Poké Balls without skill.",
             "Violet": "The boss chooses 10 members of the group to go out hunting. The hunting party will evenly split the food they find with the rest of the group."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "super-effective": 2.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/passimian.jpg"
     },
     "pheromosa": {
@@ -3924,7 +6784,62 @@
             "Ultra Sun": "A life-form that lives in another world, its body is thin and supple, but it also possesses great power.",
             "Ultra Moon": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 4.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "super-effective": 2.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/pheromosa.jpg"
     },
     "pikipek": {
@@ -3996,7 +6911,62 @@
             "Ultra Sun": "It pecks at trees with its hard beak. You can get some idea of its mood or condition from the rhythm of its pecking.",
             "Ultra Moon": "It may look spindly, but its neck muscles are heavy-duty. It can peck at a tree 16 times per second!"
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/pikipek.jpg"
     },
     "poipole": {
@@ -4061,7 +7031,62 @@
             "Ultra Sun": "This Ultra Beast is well enough liked to be chosen as a first partner in its own world.",
             "Ultra Moon": "An Ultra Beast that lives in a different world, it cackles wildly as it sprays its opponents with poison from the needles on its head."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/poipole.jpg"
     },
     "popplio": {
@@ -4135,7 +7160,62 @@
             "Sword": "It creates special bouncy balloons to send at its opponents. When the balloons pop, the sheer force of their bursting is what deals damage.",
             "Shield": "If Popplio want to create big, powerful balloons, they must be persistent. It takes daily practice for these Pokémon to develop their skills."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/popplio.jpg"
     },
     "primarina": {
@@ -4209,7 +7289,62 @@
             "Sword": "With its mouth, it makes sonic waves that sound like beautiful singing. It uses the sonic waves to control its water balloons.",
             "Shield": "For Primarina, every battle’s a stage. Its singing and the dancing of its balloons will mesmerize the audience."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "no effect": 0.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/primarina.jpg"
     },
     "pyukumuku": {
@@ -4283,7 +7418,62 @@
             "Sword": "It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them.",
             "Shield": "It’s covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/pyukumuku.jpg"
     },
     "ribombee": {
@@ -4359,7 +7549,62 @@
             "Sword": "It makes pollen puffs from pollen and nectar. The puffs’ effects depend on the type of ingredients and how much of each one is used.",
             "Shield": "Ribombee absolutely hate getting wet or rained on. In the cloudy Galar region, they are very seldom seen."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.25
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "no effect": 0.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/ribombee.jpg"
     },
     "rockruff": {
@@ -4438,7 +7683,62 @@
             "Scarlet": "This Pokémon is very friendly when it’s young. Its disposition becomes vicious once it matures, but it never forgets the kindness of its master.",
             "Violet": "This Pokémon travels in a pack with others until it grows up. When its mood turns sour, it starts striking the ground with the rocks on its neck."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "not very effective": 0.5
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/rockruff.jpg"
     },
     "rowlet": {
@@ -4513,7 +7813,62 @@
             "Shield": "During the day, it builds up energy via photosynthesis. At night, it flies silently through the sky, on the prowl for prey.",
             "Legends: Arceus": "Flies noiselessly on delicate wings. It has mastered the art of deftly launching dagger-sharp feathers from those same wings."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.25
+            },
+            "ice": {
+                "super-effective": 4.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/rowlet.jpg"
     },
     "salandit": {
@@ -4593,7 +7948,62 @@
             "Scarlet": "It taunts its prey and lures them into narrow, rocky areas where it then sprays them with toxic gas to make them dizzy and take them down.",
             "Violet": "Only female Salandit can produce gas laden with pheromones. Males entranced by this gas will do whatever the females tell them."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.25
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "super-effective": 4.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.25
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "not very effective": 0.25
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/salandit.jpg"
     },
     "salazzle": {
@@ -4673,7 +8083,62 @@
             "Scarlet": "Salazzle makes its opponents light-headed with poisonous gas, then captivates them with alluring movements to turn them into loyal servants.",
             "Violet": "When two Salazzle meet, they will use their pheromone gas to fight over the males in each other’s group."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.25
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "super-effective": 4.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.25
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "not very effective": 0.25
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/salazzle.jpg"
     },
     "sandygast": {
@@ -4750,7 +8215,62 @@
             "Scarlet": "If it loses its shovel, it will stick something else—like a branch—in its head to make do until it finds another shovel.",
             "Violet": "It flings sand into the eyes of its prey and tries to close in on them while they’re blinded, but since Sandygast is so slow, the prey tends to escape."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "no effect": 0.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "no effect": 0.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "no effect": 0.0
+            },
+            "poison": {
+                "not very effective": 0.25
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/sandygast.jpg"
     },
     "shiinotic": {
@@ -4825,7 +8345,62 @@
             "Sword": "Its flickering spores lure in prey and put them to sleep. Once this Pokémon has its prey snoozing, it drains their vitality with its fingertips.",
             "Shield": "If you see a light deep in a forest at night, don’t go near. Shiinotic will make you fall fast asleep."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "super-effective": 4.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "no effect": 0.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/shiinotic.jpg"
     },
     "silvally": {
@@ -4898,7 +8473,62 @@
             "Sword": "A solid bond of trust between this Pokémon and its Trainer awakened the strength hidden within Silvally. It can change its type at will.",
             "Shield": "The final factor needed to release this Pokémon’s true power was a strong bond with a Trainer it trusts."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/silvally.jpg"
     },
     "solgaleo": {
@@ -4969,7 +8599,62 @@
             "Sword": "When light radiates from its body, this Pokémon could almost appear to be the sun. It will dispel any darkness and light up the world.",
             "Shield": "Solgaleo was once known as the Beast That Devours the Sun. Energy in the form of light radiates boundlessly from it."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "not very effective": 0.5
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "no effect": 0.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "not very effective": 0.25
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "not very effective": 0.5
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/solgaleo.jpg"
     },
     "stakataka": {
@@ -5034,7 +8719,62 @@
             "Ultra Sun": "It appeared from an Ultra Wormhole. Each one appears to be made up of many life-forms stacked one on top of each other.",
             "Ultra Moon": "When stone walls started moving and attacking, the brute’s true identity was this mysterious life-form, which brings to mind an Ultra Beast."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "not very effective": 0.25
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "super-effective": 4.0
+            },
+            "poison": {
+                "no effect": 0.0
+            },
+            "ground": {
+                "super-effective": 4.0
+            },
+            "flying": {
+                "not very effective": 0.25
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "not very effective": 0.5
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/stakataka.jpg"
     },
     "steenee": {
@@ -5113,7 +8853,62 @@
             "Scarlet": "Steenee spreads a sweet scent that makes others feel invigorated. This same scent is popular for antiperspirants.",
             "Violet": "Steenee bounces energetically through forests. If the rind that peels off its body is pulverized, it can be used to treat stomach pains."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/steenee.jpg"
     },
     "stufful": {
@@ -5188,7 +8983,62 @@
             "Sword": "Its fluffy fur is a delight to pet, but carelessly reaching out to touch this Pokémon could result in painful retaliation.",
             "Shield": "The way it protects itself by flailing its arms may be an adorable sight, but stay well away. This is flailing that can snap thick tree trunks."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "super-effective": 2.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/stufful.jpg"
     },
     "tapu-bulu": {
@@ -5257,7 +9107,62 @@
             "Ultra Sun": "Although it’s called a guardian deity, it’s violent enough to crush anyone it sees as an enemy.",
             "Ultra Moon": "It makes ringing sounds with its tail to let others know where it is, avoiding unneeded conflicts. This guardian deity of Ula’ula controls plants."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "super-effective": 4.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "no effect": 0.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/tapu-bulu.jpg"
     },
     "tapu-fini": {
@@ -5326,7 +9231,62 @@
             "Ultra Sun": "This guardian deity of Poni Island manipulates water. Because it lives deep within a thick fog, it came to be both feared and revered.",
             "Ultra Moon": "Although it’s called a guardian deity, terrible calamities sometimes befall those who recklessly approach Tapu Fini."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "no effect": 0.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/tapu-fini.jpg"
     },
     "tapu-koko": {
@@ -5395,7 +9355,62 @@
             "Ultra Sun": "Although it’s called a guardian deity, if a person or Pokémon puts it in a bad mood, it will become a malevolent deity and attack.",
             "Ultra Moon": "The lightning-wielding guardian deity of Melemele, Tapu Koko is brimming with curiosity and appears before people from time to time."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "no effect": 0.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/tapu-koko.jpg"
     },
     "tapu-lele": {
@@ -5464,7 +9479,62 @@
             "Ultra Sun": "It heals the wounds of people and Pokémon by sprinkling them with its sparkling scales. This guardian deity is worshiped on Akala.",
             "Ultra Moon": "Although called a guardian deity, Tapu Lele is devoid of guilt about its cruel disposition and can be described as nature incarnate."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.25
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "no effect": 0.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/tapu-lele.jpg"
     },
     "togedemaru": {
@@ -5539,7 +9609,62 @@
             "Sword": "With the long hairs on its back, this Pokémon takes in electricity from other electric Pokémon. It stores what it absorbs in an electric sac.",
             "Shield": "When it’s in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "not very effective": 0.5
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "no effect": 0.0
+            },
+            "ground": {
+                "super-effective": 4.0
+            },
+            "flying": {
+                "not very effective": 0.25
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "not very effective": 0.5
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.25
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/togedemaru.jpg"
     },
     "torracat": {
@@ -5612,7 +9737,62 @@
             "Sword": "In the midst of battle, the fire pouch on Torracat’s neck rings like a bell and produces stronger flames than usual.",
             "Shield": "When facing a powerful enemy, Torracat’s fighting spirit gets pumped up, and its fire bell blazes hotter."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/torracat.jpg"
     },
     "toucannon": {
@@ -5684,7 +9864,62 @@
             "Ultra Sun": "They smack beaks with others of their kind to communicate. The strength and number of hits tell each other how they feel.",
             "Ultra Moon": "Known for forming harmonious couples, this Pokémon is brought to wedding ceremonies as a good luck charm."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/toucannon.jpg"
     },
     "toxapex": {
@@ -5764,7 +9999,62 @@
             "Scarlet": "This Pokémon lives within a dome made by its own legs. Toxapex monitors its surroundings by sensing the flow of the tide through its spikes.",
             "Violet": "Toxapex gets into fierce battles with Bruxish over areas where warm ocean currents flow, but the odds are always against it."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/toxapex.jpg"
     },
     "trumbeak": {
@@ -5836,7 +10126,62 @@
             "Ultra Sun": "It can bend the tip of its beak to produce over a hundred different cries at will.",
             "Ultra Moon": "From its mouth, it fires the seeds of berries it has eaten. The scattered seeds give rise to new plants."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/trumbeak.jpg"
     },
     "tsareena": {
@@ -5915,7 +10260,62 @@
             "Scarlet": "This Pokémon is proud and aggressive. However, it is said that a Tsareena will instantly become calm if someone touches the crown on its calyx.",
             "Violet": "This Pokémon launches fierce yet elegant kicks with its long, slender legs. It views Quaquaval as its rival."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/tsareena.jpg"
     },
     "turtonator": {
@@ -5989,7 +10389,62 @@
             "Sword": "Explosive substances coat the shell on its back. Enemies that dare attack it will be blown away by an immense detonation.",
             "Shield": "Eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. Its droppings are also dangerously explosive."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.25
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.25
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "super-effective": 2.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/turtonator.jpg"
     },
     "type-null": {
@@ -6062,7 +10517,62 @@
             "Sword": "Rumor has it that the theft of top-secret research notes led to a new instance of this Pokémon being created in the Galar region.",
             "Shield": "It was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/type-null.jpg"
     },
     "vikavolt": {
@@ -6137,7 +10647,62 @@
             "Sword": "It builds up electricity in its abdomen, focuses it through its jaws, and then fires the electricity off in concentrated beams.",
             "Shield": "If it carries a Charjabug to use as a spare battery, a flying Vikavolt can rapidly fire high-powered beams of electricity."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/vikavolt.jpg"
     },
     "wimpod": {
@@ -6213,7 +10778,62 @@
             "Sword": "It’s nature’s cleaner—it eats anything and everything, including garbage and rotten things. The ground near its nest is always clean.",
             "Shield": "Wimpod gather in swarms, constantly on the lookout for danger. They scatter the moment they detect an enemy’s presence."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/wimpod.jpg"
     },
     "wishiwashi": {
@@ -6288,7 +10908,62 @@
             "Sword": "Individually, they’re incredibly weak. It’s by gathering up into schools that they’re able to confront opponents.",
             "Shield": "When it senses danger, its eyes tear up. The sparkle of its tears signals other Wishiwashi to gather."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/wishiwashi-solo.jpg"
     },
     "xurkitree": {
@@ -6357,7 +11032,62 @@
             "Ultra Sun": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",
             "Ultra Moon": "They’ve been dubbed Ultra Beasts. Some of them stand unmoving, like trees, with their arms and legs stuck into the ground."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/xurkitree.jpg"
     },
     "yungoos": {
@@ -6432,7 +11162,62 @@
             "Scarlet": "Its stomach fills most of its torso. It wanders the same path every day, searching for fresh food.",
             "Violet": "It spends its waking hours searching endlessly for food. When Yungoos is hungry, its ferocity gains a certain edge."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/yungoos.jpg"
     },
     "zeraora": {
@@ -6499,7 +11284,62 @@
             "Sword": "It runs as fast as lightning strikes, shredding its opponents with its high-voltage claws.",
             "Shield": "Electricity sparks from the pads on its limbs. Wherever Zeraora runs, lightning flashes and thunder echoes."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "no effect": 0.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/zeraora.jpg"
     }
 }

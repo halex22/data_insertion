@@ -16,6 +16,7 @@ def clean_types_effect(data: dict):
                 type[key] = float(value)
             except ValueError:
                 type[key] = effect_mapper[value]
+    return data
 
 
 if __name__ == '__main__':
@@ -29,10 +30,10 @@ if __name__ == '__main__':
     if test_batch:
         for pokemon_name in data.keys():
             pokemon = data[pokemon_name]['types_effect']
-            clean_types_effect(pokemon)
+            print(clean_types_effect(pokemon))
 
     else:
         pokemon_name = next(data.keys().__iter__())
 
         pokemon = data[pokemon_name]['types_effect']
-        clean_types_effect(pokemon)
+        print(clean_types_effect(pokemon))

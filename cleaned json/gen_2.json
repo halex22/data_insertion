@@ -99,7 +99,62 @@
             "Shining Pearl": "It lives atop giant trees. It wraps its tail around a branch so it won’t fall off while asleep.",
             "Legends: Arceus": "This treetop dweller possesses a tail as dexterous as a hand. Ancient writings describe this Pokémon as a one-armed oddity."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/aipom.jpg"
     },
     "ampharos": {
@@ -202,7 +257,62 @@
             "Scarlet": "The bright light on its tail can be seen far away. It has been treasured since ancient times as a beacon.",
             "Violet": "When it gets dark, the light from its bright, shiny tail can be seen from far away on the ocean’s surface."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.25
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "super-effective": 2.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "super-effective": 2.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/ampharos.jpg"
     },
     "ariados": {
@@ -305,7 +415,62 @@
             "Brilliant Diamond": "It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.",
             "Shining Pearl": "It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.25
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.25
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/ariados.jpg"
     },
     "azumarill": {
@@ -419,7 +584,62 @@
             "Scarlet": "Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.",
             "Violet": "By keeping still and listening intently, it can tell what is in even wild, fast-moving rivers."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "no effect": 0.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "no effect": 0.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/azumarill.jpg"
     },
     "bayleef": {
@@ -510,7 +730,62 @@
             "Brilliant Diamond": "The buds that ring its neck give off a spicy aroma that perks people up.",
             "Shining Pearl": "The buds that ring its neck give off a spicy aroma that perks people up."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/bayleef.jpg"
     },
     "bellossom": {
@@ -612,7 +887,62 @@
             "Brilliant Diamond": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
             "Shining Pearl": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/bellossom.jpg"
     },
     "blissey": {
@@ -726,7 +1056,62 @@
             "Scarlet": "Anyone who takes even one taste of Blissey’s egg becomes unfailingly caring and pleasant to everyone.",
             "Violet": "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/blissey.jpg"
     },
     "celebi": {
@@ -815,7 +1200,62 @@
             "Brilliant Diamond": "It has the power to travel across time, but it is said to appear only in peaceful times.",
             "Shining Pearl": "It has the power to travel across time, but it is said to appear only in peaceful times."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "super-effective": 4.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/celebi.jpg"
     },
     "chikorita": {
@@ -905,7 +1345,62 @@
             "Brilliant Diamond": "It uses the leaf on its head to determine the air’s temperature and humidity. It loves to sunbathe.",
             "Shining Pearl": "It uses the leaf on its head to determine the air’s temperature and humidity. It loves to sunbathe."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/chikorita.jpg"
     },
     "chinchou": {
@@ -1018,7 +1513,62 @@
             "Brilliant Diamond": "It discharges positive and negative electricity from the tips of its antennae to shock its foes.",
             "Shining Pearl": "It discharges positive and negative electricity from the tips of its antennae to shock its foes."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "no effect": 0.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.25
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/chinchou.jpg"
     },
     "cleffa": {
@@ -1133,7 +1683,62 @@
             "Shining Pearl": "Many appear when the night skies are filled with shooting stars. They disappear with sunrise.",
             "Legends: Arceus": "In silhouette, they resemble twinkling starlight. When shooting stars rain from the night sky, Cleffa gather in numbers and dance as though they are indeed incarnations of the stars."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "no effect": 0.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/cleffa.jpg"
     },
     "corsola": {
@@ -1250,7 +1855,62 @@
             "Brilliant Diamond": "Many live in the clean seas of the south. They apparently can’t live in polluted waters.",
             "Shining Pearl": "Many live in the clean seas of the south. They apparently can’t live in polluted waters."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "no effect": 0.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "no effect": 0.0
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/corsola.jpg"
     },
     "crobat": {
@@ -1369,7 +2029,62 @@
             "Shining Pearl": "This Pokémon gained vastly enhanced flying capabilities after its legs became wings.",
             "Legends: Arceus": "Its hind limbs have become another set of wings. Crobat expertly maneuvers its four wings to dart in exquisite fashion through even the most confined caves without losing any speed."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "not very effective": 0.25
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "not very effective": 0.25
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.25
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/crobat.jpg"
     },
     "croconaw": {
@@ -1461,7 +2176,62 @@
             "Brilliant Diamond": "Once it bites down, it won’t let go until it loses its fangs. New fangs quickly grow into place.",
             "Shining Pearl": "Once it bites down, it won’t let go until it loses its fangs. New fangs quickly grow into place."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/croconaw.jpg"
     },
     "cyndaquil": {
@@ -1553,7 +2323,62 @@
             "Shining Pearl": "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
             "Legends: Arceus": "Hails from the Johto region. Though usually curled into a ball due to its timid disposition, it harbors tremendous firepower."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "no effect": 0.0
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/cyndaquil.jpg"
     },
     "delibird": {
@@ -1668,7 +2493,62 @@
             "Scarlet": "It carries food all day long. There are tales about lost people who were saved by the food it had.",
             "Violet": "It always carries its food with it, wherever it goes. If attacked, it throws its food at the opponent."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 4.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/delibird.jpg"
     },
     "donphan": {
@@ -1768,7 +2648,62 @@
             "Scarlet": "Donphan is covered in tough hide, so even being hit by a car won’t faze this Pokémon. However, it is extremely susceptible to rain.",
             "Violet": "Donphan is normally a calm Pokémon, but once it is enraged, it will curl its body into a ball and charge at you while rolling."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "no effect": 0.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/donphan.jpg"
     },
     "dunsparce": {
@@ -1877,7 +2812,62 @@
             "Scarlet": "It creates mazes in dark locations. When spotted, it flees into the ground by digging with its tail.",
             "Violet": "If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/dunsparce.jpg"
     },
     "elekid": {
@@ -1985,7 +2975,62 @@
             "Shining Pearl": "It generates electricity by whirling its arms. However, it can’t store the energy it makes.",
             "Legends: Arceus": "They generate electricity by spinning their arms. During a thunderstorm, if one hears the lively voices of children out in the wilderness, what one is actually hearing are the voices of Elekid."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/elekid.jpg"
     },
     "entei": {
@@ -2074,7 +3119,62 @@
             "Brilliant Diamond": "It is said that when it roars, a volcano erupts somewhere around the globe.",
             "Shining Pearl": "It is said that when it roars, a volcano erupts somewhere around the globe."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/entei.jpg"
     },
     "espeon": {
@@ -2190,7 +3290,62 @@
             "Scarlet": "The tip of its forked tail quivers when it is predicting its opponent’s next move.",
             "Violet": "It uses the fine hair that covers its body to sense air currents and predict its enemy’s actions."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/espeon.jpg"
     },
     "feraligatr": {
@@ -2282,7 +3437,62 @@
             "Brilliant Diamond": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
             "Shining Pearl": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/feraligatr.jpg"
     },
     "flaaffy": {
@@ -2386,7 +3596,62 @@
             "Scarlet": "As a result of storing too much electricity, it developed patches where even downy wool won’t grow.",
             "Violet": "Because of its rubbery, electricity-resistant skin, it can store lots of electricity in its fur."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/flaaffy.jpg"
     },
     "forretress": {
@@ -2484,7 +3749,62 @@
             "Scarlet": "It’s usually found hanging on to a fat tree trunk. It shoots out bits of its shell when it sees action.",
             "Violet": "Its entire body is shielded by a steel-hard shell. What lurks inside this shell is a total mystery."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "not very effective": 0.5
+            },
+            "fire": {
+                "super-effective": 4.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.25
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "no effect": 0.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "not very effective": 0.5
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/forretress.jpg"
     },
     "furret": {
@@ -2578,7 +3898,62 @@
             "Brilliant Diamond": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
             "Shining Pearl": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/furret.jpg"
     },
     "girafarig": {
@@ -2683,7 +4058,62 @@
             "Scarlet": "Though very small, the brain in its tail is still considered an important organ because it emits powerful psychic energy.",
             "Violet": "Girafarig’s tail has a small head. It instinctively bites at any foe that approaches the Pokémon from behind."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "no effect": 0.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/girafarig.jpg"
     },
     "gligar": {
@@ -2783,7 +4213,62 @@
             "Shining Pearl": "It sails on the winds with its limbs extended to strike from the sky. It aims for the prey’s face.",
             "Legends: Arceus": "Its tail is tipped by a thick, horrible stinger. To bring down prey, it will first obscure their vision by covering their faces with its body, and then it will use the stinger to inject them with venom."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "no effect": 0.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "super-effective": 4.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/gligar.jpg"
     },
     "granbull": {
@@ -2886,7 +4371,62 @@
             "Brilliant Diamond": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
             "Shining Pearl": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "no effect": 0.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/granbull.jpg"
     },
     "heracross": {
@@ -3007,7 +4547,62 @@
             "Scarlet": "It loves sweet nectar. To keep all the nectar to itself, it hurls rivals away with its prized horn.",
             "Violet": "With its herculean powers, it can easily throw around an object that is 100 times its own weight."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 4.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "super-effective": 2.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/heracross.jpg"
     },
     "hitmontop": {
@@ -3103,7 +4698,62 @@
             "Brilliant Diamond": "It fights while spinning like a top. The centrifugal force boosts its destructive power by a factor of 10.",
             "Shining Pearl": "It fights while spinning like a top. The centrifugal force boosts its destructive power by a factor of 10."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "super-effective": 2.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/hitmontop.jpg"
     },
     "ho-oh": {
@@ -3191,7 +4841,62 @@
             "Brilliant Diamond": "Its feathers are in seven colors. It is said that anyone seeing it is promised eternal happiness.",
             "Shining Pearl": "Its feathers are in seven colors. It is said that anyone seeing it is promised eternal happiness."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "not very effective": 0.25
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.25
+            },
+            "rock": {
+                "super-effective": 4.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/ho-oh.jpg"
     },
     "hoothoot": {
@@ -3299,7 +5004,62 @@
             "Brilliant Diamond": "It always stands on one foot. Even when attacked, it does not brace itself using both feet.",
             "Shining Pearl": "It switches its standing foot so quickly that the switch can’t be seen. It cries at the same time every day."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/hoothoot.jpg"
     },
     "hoppip": {
@@ -3396,7 +5156,62 @@
             "Scarlet": "This Pokémon is blown across vast distances by the wind. It is unclear where the Hoppip of Paldea originally came from.",
             "Violet": "Outside of cold regions, Hoppip can be found practically everywhere. This is because the wind carries this species all over the world."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.25
+            },
+            "ice": {
+                "super-effective": 4.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/hoppip.jpg"
     },
     "houndoom": {
@@ -3500,7 +5315,62 @@
             "Scarlet": "If you are burned by the flames it shoots from its mouth, the pain will never go away.",
             "Violet": "Upon hearing its eerie howls, other Pokémon get the shivers and head straight back to their nests."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "no effect": 0.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "not very effective": 0.5
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/houndoom.jpg"
     },
     "houndour": {
@@ -3604,7 +5474,62 @@
             "Scarlet": "It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.",
             "Violet": "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "no effect": 0.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "not very effective": 0.5
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/houndour.jpg"
     },
     "igglybuff": {
@@ -3721,7 +5646,62 @@
             "Scarlet": "Its body has a faintly sweet scent and is bouncy and soft. If it bounces even once, it cannot stop.",
             "Violet": "It likes to sing but is not yet good at it. With praise and encouragement, it will get better little by little."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "no effect": 0.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/igglybuff.jpg"
     },
     "jumpluff": {
@@ -3818,7 +5798,62 @@
             "Scarlet": "Jumpluff travels on seasonal winds. Once its cotton spores run out, its journey ends, as does its life.",
             "Violet": "Beware its cotton spores. If you accidentally breathe them in, you’ll be racked with coughs and itchiness."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.25
+            },
+            "ice": {
+                "super-effective": 4.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/jumpluff.jpg"
     },
     "kingdra": {
@@ -3923,7 +5958,62 @@
             "Brilliant Diamond": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
             "Shining Pearl": "It lives in caves on the seafloor and creates giant whirlpools every time it moves."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.25
+            },
+            "water": {
+                "not very effective": 0.25
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "super-effective": 2.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "super-effective": 2.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/kingdra.jpg"
     },
     "lanturn": {
@@ -4036,7 +6126,62 @@
             "Brilliant Diamond": "Lanturn’s light can shine up from great depths. It is nicknamed the Deep-Sea Star.",
             "Shining Pearl": "Lanturn’s light can shine up from great depths. It is nicknamed the Deep-Sea Star."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "no effect": 0.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.25
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/lanturn.jpg"
     },
     "larvitar": {
@@ -4145,7 +6290,62 @@
             "Scarlet": "Born deep underground, this Pokémon becomes a pupa after eating enough dirt to make a mountain.",
             "Violet": "It is born deep underground. It can’t emerge until it has entirely consumed the soil around it."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "not very effective": 0.5
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "super-effective": 4.0
+            },
+            "electric": {
+                "no effect": 0.0
+            },
+            "grass": {
+                "super-effective": 4.0
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "not very effective": 0.25
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/larvitar.jpg"
     },
     "ledian": {
@@ -4247,7 +6447,62 @@
             "Brilliant Diamond": "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.",
             "Shining Pearl": "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "not very effective": 0.25
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "not very effective": 0.25
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 4.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/ledian.jpg"
     },
     "ledyba": {
@@ -4349,7 +6604,62 @@
             "Brilliant Diamond": "It’s so timid that it can’t move unless it’s with a swarm. It conveys its feelings through scent.",
             "Shining Pearl": "It’s so timid that it can’t move unless it’s with a swarm. It conveys its feelings through scent."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "not very effective": 0.25
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "not very effective": 0.25
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 4.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/ledyba.jpg"
     },
     "lugia": {
@@ -4437,7 +6747,62 @@
             "Brilliant Diamond": "It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.",
             "Shining Pearl": "It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "not very effective": 0.25
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/lugia.jpg"
     },
     "magby": {
@@ -4545,7 +6910,62 @@
             "Shining Pearl": "Its body temperature is around 1,100 degrees Fahrenheit. It is healthy if it is exhaling yellow flames.",
             "Legends: Arceus": "This Pokémon lives in volcanic areas. With each breath, sparks spurt from its mouth and nose. When Magby is in good health, its flames gain a yellow tint."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/magby.jpg"
     },
     "magcargo": {
@@ -4644,7 +7064,62 @@
             "Brilliant Diamond": "Its body temperature is roughly 18,000 degrees Fahrenheit. Flames burst from gaps in its shell made of hardened magma.",
             "Shining Pearl": "Its body temperature is roughly 18,000 degrees Fahrenheit. Flames burst from gaps in its shell made of hardened magma."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "not very effective": 0.5
+            },
+            "fire": {
+                "not very effective": 0.25
+            },
+            "water": {
+                "super-effective": 4.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "super-effective": 4.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/magcargo.jpg"
     },
     "mantine": {
@@ -4757,7 +7232,62 @@
             "Shining Pearl": "It swims elegantly, mindless of Remoraid hitching onto its broad fins. It is naturally docile.",
             "Legends: Arceus": "This calm and gentle Pokémon swims gracefully through the sea. After building speed, it can leap out of the water. It is often misidentified as a bird Pokémon due to this behavior."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "super-effective": 4.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/mantine.jpg"
     },
     "mareep": {
@@ -4861,7 +7391,62 @@
             "Scarlet": "If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you.",
             "Violet": "Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/mareep.jpg"
     },
     "marill": {
@@ -4975,7 +7560,62 @@
             "Scarlet": "The fur on its body naturally repels water. It can stay dry even when it plays in the water.",
             "Violet": "The oil-filled tail functions as a buoy, so it’s fine even in rivers with strong currents."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "no effect": 0.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "no effect": 0.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/marill.jpg"
     },
     "meganium": {
@@ -5066,7 +7706,62 @@
             "Brilliant Diamond": "Its breath has the fantastic ability to revive dead plants and flowers.",
             "Shining Pearl": "Its breath has the fantastic ability to revive dead plants and flowers."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/meganium.jpg"
     },
     "miltank": {
@@ -5171,7 +7866,62 @@
             "Brilliant Diamond": "It is said that kids who drink Miltank’s milk grow up to become hearty, healthy adults.",
             "Shining Pearl": "It is said that kids who drink Miltank’s milk grow up to become hearty, healthy adults."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "no effect": 0.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/miltank.jpg"
     },
     "misdreavus": {
@@ -5280,7 +8030,62 @@
             "Scarlet": "This Pokémon startles people in the middle of the night. It gathers fear as its energy.",
             "Violet": "It loves to bite and yank people’s hair from behind without warning, just to see their shocked reactions."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "no effect": 0.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "no effect": 0.0
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/misdreavus.jpg"
     },
     "murkrow": {
@@ -5394,7 +8199,62 @@
             "Scarlet": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
             "Violet": "If spotted, it will lure an unwary person into chasing it, then lose the pursuer on mountain trails."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "no effect": 0.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "not very effective": 0.5
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "super-effective": 2.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/murkrow.jpg"
     },
     "natu": {
@@ -5498,7 +8358,62 @@
             "Brilliant Diamond": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
             "Shining Pearl": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "not very effective": 0.25
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/natu.jpg"
     },
     "noctowl": {
@@ -5606,7 +8521,62 @@
             "Brilliant Diamond": "Its eyes are special. They can pick out objects as long as there is the tiniest amount of light.",
             "Shining Pearl": "If it flips its head upside down, it’s a sign that it is engaged in very complex thinking."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/noctowl.jpg"
     },
     "octillery": {
@@ -5722,7 +8692,62 @@
             "Shining Pearl": "It obscures its foe’s vision by spitting a cloud of black ink. It makes its nest among boulders.",
             "Legends: Arceus": "While Octillery still shoots water from its mouth, the drastic anatomical difference between it and Remoraid meant that for a long time, no one believed the former evolved from the latter."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/octillery.jpg"
     },
     "phanpy": {
@@ -5820,7 +8845,62 @@
             "Scarlet": "This Pokémon lives and nests on a riverbank. After playing in the mud, it won’t be able to settle down unless it washes its body.",
             "Violet": "It is far stronger than it appears. If a Phanpy is swinging its trunk around and your arm gets hit by it, your arm bone will shatter."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "no effect": 0.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/phanpy.jpg"
     },
     "pichu": {
@@ -5943,7 +9023,62 @@
             "Scarlet": "It is unskilled at storing electric power. Any kind of shock causes it to discharge energy spontaneously.",
             "Violet": "Despite this Pokémon’s cute appearance, those who want to live with one should prepare to be on the receiving end of its electric jolts."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "no effect": 0.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/pichu.jpg"
     },
     "piloswine": {
@@ -6049,7 +9184,62 @@
             "Shining Pearl": "Its shaggy coat makes it unable to see. It checks surroundings with its sensitive nose instead.",
             "Legends: Arceus": "The long fur of this Pokémon covers its eyes, ears, and even limbs, allowing Piloswine to resist harshly frigid conditions. The Pokémon’s white tusks can be used to defeat its enemies."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "no effect": 0.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/piloswine.jpg"
     },
     "pineco": {
@@ -6147,7 +9337,62 @@
             "Scarlet": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn’t bother it.",
             "Violet": "It spits out a fluid that it uses to glue tree bark to its body. The fluid hardens when it touches air."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/pineco.jpg"
     },
     "politoed": {
@@ -6253,7 +9498,62 @@
             "Brilliant Diamond": "A group of Poliwag and Poliwhirl will form with a Politoed as the leader. Politoed’s cries make the Pokémon of the group obey.",
             "Shining Pearl": "A group of Poliwag and Poliwhirl will form with a Politoed as the leader. Politoed’s cries make the Pokémon of the group obey."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/politoed.jpg"
     },
     "porygon2": {
@@ -6358,7 +9658,62 @@
             "Shining Pearl": "With planetary development software installed, it became capable of working in space.",
             "Legends: Arceus": "A bizarre item caused this Pokémon to evolve. While it now exhibits many new gestures and expressions, its biology remains inscrutable."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/porygon2.jpg"
     },
     "pupitar": {
@@ -6467,7 +9822,62 @@
             "Scarlet": "This pupa flies around wildly by venting with great force the gas pressurized inside its body.",
             "Violet": "Its shell is as hard as bedrock, and it is also very strong. Its thrashing can topple a mountain."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "not very effective": 0.5
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "super-effective": 4.0
+            },
+            "electric": {
+                "no effect": 0.0
+            },
+            "grass": {
+                "super-effective": 4.0
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "not very effective": 0.25
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/pupitar.jpg"
     },
     "quagsire": {
@@ -6572,7 +9982,62 @@
             "Brilliant Diamond": "It has a sluggish nature. It lies at the river’s bottom, waiting for prey to stray into its mouth.",
             "Shining Pearl": "A dim-witted Pokémon. It doesn’t care if it bumps its head into boats or rocks while swimming."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "no effect": 0.0
+            },
+            "grass": {
+                "super-effective": 4.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/quagsire.jpg"
     },
     "quilava": {
@@ -6665,7 +10130,62 @@
             "Shining Pearl": "It intimidates foes with the heat of its flames. The fire burns stronger as it prepares to fight.",
             "Legends: Arceus": "This creature’s fur is most mysterious—it is wholly impervious to the burning touch of flame. Should Quilava turn its back to you, take heed! Such a posture indicates a forthcoming attack."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "no effect": 0.0
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/quilava.jpg"
     },
     "qwilfish": {
@@ -6768,7 +10288,62 @@
             "Scarlet": "Be cautious if this Pokémon starts sucking in water—it will soon attack by scattering the toxic spikes that grow all over its body.",
             "Violet": "Experienced fishers say they try to catch Qwilfish in the brief moment that these Pokémon become defenseless just after launching poisonous spikes."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "no effect": 0.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "not very effective": 0.5
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/qwilfish.jpg"
     },
     "raikou": {
@@ -6857,7 +10432,62 @@
             "Brilliant Diamond": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.",
             "Shining Pearl": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/raikou.jpg"
     },
     "remoraid": {
@@ -6972,7 +10602,62 @@
             "Shining Pearl": "It clings to Mantine to feed on the big Pokémon’s scraps. This is an adaptation to avoid foes.",
             "Legends: Arceus": "Spits water from its mouth with incredible accuracy. It captures Burmy by shooting them down off the branches from which they dangle."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/remoraid.jpg"
     },
     "scizor": {
@@ -7085,7 +10770,62 @@
             "Scarlet": "This Pokémon’s pincers, which contain steel, can crush any hard object they get ahold of into bits.",
             "Violet": "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "not very effective": 0.5
+            },
+            "fire": {
+                "super-effective": 4.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.25
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "no effect": 0.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "not very effective": 0.5
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/scizor.jpg"
     },
     "sentret": {
@@ -7179,7 +10919,62 @@
             "Brilliant Diamond": "It has a very nervous nature. It stands up high on its tail so it can scan wide areas.",
             "Shining Pearl": "It has a very nervous nature. It stands up high on its tail so it can scan wide areas."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/sentret.jpg"
     },
     "shuckle": {
@@ -7281,7 +11076,62 @@
             "Brilliant Diamond": "It stores berries in its shell. The berries mix with its body fluids to become delicious juices.",
             "Shining Pearl": "It stores berries in its shell. The berries mix with its body fluids to become delicious juices."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "not very effective": 0.5
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/shuckle.jpg"
     },
     "skarmory": {
@@ -7395,7 +11245,62 @@
             "Brilliant Diamond": "Skarmory is clad entirely in ironhard armor. It flies at speeds over 180 mph.",
             "Shining Pearl": "Skarmory is clad entirely in ironhard armor. It flies at speeds over 180 mph."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "not very effective": 0.5
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "not very effective": 0.25
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "no effect": 0.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "not very effective": 0.25
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "not very effective": 0.5
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/skarmory.jpg"
     },
     "skiploom": {
@@ -7492,7 +11397,62 @@
             "Scarlet": "Skiploom enthusiasts can apparently tell where a Skiploom was born by the scent drifting from the flower on the Pokémon’s head.",
             "Violet": "When the weather grows cold, Skiploom’s flower closes and the Pokémon cannot photosynthesize, so it flies away to warmer regions."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.25
+            },
+            "ice": {
+                "super-effective": 4.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/skiploom.jpg"
     },
     "slowking": {
@@ -7603,7 +11563,62 @@
             "Scarlet": "When its head was bitten, toxins entered Slowpoke’s head and unlocked an extraordinary power.",
             "Violet": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.25
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/slowking.jpg"
     },
     "slugma": {
@@ -7702,7 +11717,62 @@
             "Brilliant Diamond": "Its body is made of magma. If it doesn’t keep moving, its body will cool and harden.",
             "Shining Pearl": "Its body is made of magma. If it doesn’t keep moving, its body will cool and harden."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/slugma.jpg"
     },
     "smeargle": {
@@ -7805,7 +11875,62 @@
             "Brilliant Diamond": "It marks its territory by using its tail like a paintbrush. There are more than 5,000 different marks.",
             "Shining Pearl": "It marks its territory by using its tail like a paintbrush. There are more than 5,000 different marks."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/smeargle.jpg"
     },
     "smoochum": {
@@ -7906,7 +12031,62 @@
             "Brilliant Diamond": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
             "Shining Pearl": "It tests everything by touching with its lips, which remember what it likes and dislikes."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/smoochum.jpg"
     },
     "sneasel": {
@@ -8028,7 +12208,62 @@
             "Scarlet": "This cunning Pokémon hides under the cover of darkness, waiting to attack its prey.",
             "Violet": "This is a smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "super-effective": 4.0
+            },
+            "bug": {
+                "not very effective": 0.25
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/sneasel.jpg"
     },
     "snubbull": {
@@ -8131,7 +12366,62 @@
             "Brilliant Diamond": "Small Pokémon flee from its scary face. It is, however, considered by many people to be cute.",
             "Shining Pearl": "Small Pokémon flee from its scary face. It is, however, considered by many people to be cute."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "no effect": 0.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/snubbull.jpg"
     },
     "spinarak": {
@@ -8234,7 +12524,62 @@
             "Brilliant Diamond": "It sets a trap by spinning a web with thin but strong thread. It waits motionlessly for prey to arrive.",
             "Shining Pearl": "It sets a trap by spinning a web with thin but strong thread. It waits motionlessly for prey to arrive."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.25
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.25
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/spinarak.jpg"
     },
     "stantler": {
@@ -8331,7 +12676,62 @@
             "Scarlet": "This Pokémon apparently used to live in much harsher environments, and thus it once had stronger psychic powers than it does now.",
             "Violet": "It’s said that this Pokémon used to be stronger long ago when it had many enemies, and that it was even able to evolve under its own power."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "no effect": 0.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/stantler.jpg"
     },
     "steelix": {
@@ -8438,7 +12838,62 @@
             "Shining Pearl": "It chews its way through boulders with its sturdy jaws. Its eyes can see in the darkness underground.",
             "Legends: Arceus": "This Pokémon evolved through use of a strange item. Its body is coated with steel powder and notably hard—not even diamond can leave so much as a scratch."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "not very effective": 0.5
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "no effect": 0.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "no effect": 0.0
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "not very effective": 0.25
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "not very effective": 0.5
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/steelix.jpg"
     },
     "sudowoodo": {
@@ -8556,7 +13011,62 @@
             "Scarlet": "Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.",
             "Violet": "To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "not very effective": 0.5
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/sudowoodo.jpg"
     },
     "suicune": {
@@ -8645,7 +13155,62 @@
             "Brilliant Diamond": "It races around the world to purify fouled water. It dashes away with the north wind.",
             "Shining Pearl": "It races around the world to purify fouled water. It dashes away with the north wind."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/suicune.jpg"
     },
     "sunflora": {
@@ -8742,7 +13307,62 @@
             "Scarlet": "In the daytime, it rushes about in a hectic manner, but it comes to a complete stop when the sun sets.",
             "Violet": "Since it converts sunlight into energy, it is always looking in the direction of the sun."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/sunflora.jpg"
     },
     "sunkern": {
@@ -8839,7 +13459,62 @@
             "Scarlet": "It suddenly falls out of the sky in the morning. Knowing it’s weak, it simply feeds until it evolves.",
             "Violet": "It is very weak. Its only means of defense is to shake its leaves desperately at its attacker."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "not very effective": 0.5
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "not very effective": 0.5
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/sunkern.jpg"
     },
     "swinub": {
@@ -8944,7 +13619,62 @@
             "Shining Pearl": "It loves eating mushrooms that grow under dead grass. It also finds hot springs while foraging.",
             "Legends: Arceus": "Swinub excels at sniffing out mushrooms buried beneath grass or snow. Since ancient times, the people of Hisui have often relied upon this skill."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "no effect": 0.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/swinub.jpg"
     },
     "teddiursa": {
@@ -9043,7 +13773,62 @@
             "Scarlet": "This Pokémon discreetly follows Combee to find their hive. It scoops up big dollops of honey in its palms to eat.",
             "Violet": "Its paws are soaked in oodles of honey. When nervous, Teddiursa will lick its paws and soon have a smile back on its face."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/teddiursa.jpg"
     },
     "togepi": {
@@ -9140,7 +13925,62 @@
             "Shining Pearl": "Its shell is said to be stuffed with happiness that it shares with kindhearted people.",
             "Legends: Arceus": "This ovate creature is frequently mistaken for a moving egg when encountered out in the fields or in the mountains. Its guileless smile soothes the soul."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "no effect": 0.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/togepi.jpg"
     },
     "togetic": {
@@ -9237,7 +14077,62 @@
             "Shining Pearl": "It is said to appear in front of kindly people to scatter a glowing down called joy dust.",
             "Legends: Arceus": "No records exist of Togetic being seen in the wilds. Rumors abound that it evolves under the loving care of a trusted human companion, upon whom the Pokémon then bestows great joy."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "not very effective": 0.25
+            },
+            "poison": {
+                "super-effective": 2.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.25
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "no effect": 0.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/togetic.jpg"
     },
     "totodile": {
@@ -9328,7 +14223,62 @@
             "Brilliant Diamond": "It has a habit of biting everything with its well-developed jaws. Even its Trainer needs to be careful.",
             "Shining Pearl": "It has a habit of biting everything with its well-developed jaws. Even its Trainer needs to be careful."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "not very effective": 0.5
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/totodile.jpg"
     },
     "typhlosion": {
@@ -9419,7 +14369,62 @@
             "Brilliant Diamond": "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.",
             "Shining Pearl": "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "no effect": 0.0
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "not very effective": 0.5
+            },
+            "fighting": {
+                "no effect": 0.0
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.25
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "not very effective": 0.5
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/typhlosion.jpg"
     },
     "tyranitar": {
@@ -9527,7 +14532,62 @@
             "Scarlet": "Extremely strong, it can change the landscape. It is so insolent that it doesn’t care about others.",
             "Violet": "In just one of its mighty hands, it has the power to make the ground shake and mountains crumble."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "not very effective": 0.5
+            },
+            "fire": {
+                "not very effective": 0.5
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "super-effective": 2.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 4.0
+            },
+            "poison": {
+                "not very effective": 0.5
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "not very effective": 0.5
+            },
+            "psychic": {
+                "no effect": 0.0
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "not very effective": 0.5
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "super-effective": 2.0
+            },
+            "fairy": {
+                "super-effective": 2.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/tyranitar.jpg"
     },
     "tyrogue": {
@@ -9622,7 +14682,62 @@
             "Brilliant Diamond": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
             "Shining Pearl": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "normal effectiveness": 1.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "super-effective": 2.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/tyrogue.jpg"
     },
     "umbreon": {
@@ -9738,7 +14853,62 @@
             "Scarlet": "When exposed to the moon’s aura, the rings on its body glow faintly and it gains a mysterious power.",
             "Violet": "When darkness falls, the rings on the body begin to glow, striking fear in the hearts of anyone nearby."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "no effect": 0.0
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "not very effective": 0.5
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "not very effective": 0.5
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "super-effective": 2.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/umbreon.jpg"
     },
     "unown": {
@@ -9834,7 +15004,62 @@
             "Shining Pearl": "They seem to communicate among each other telepathically. They are always found stuck on walls.",
             "Legends: Arceus": "It is hard to believe these strangely shaped Pokémon are truly living creatures. I’ve pointed out that the species’ many forms resemble writing from other lands; no one will take me seriously."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/unown.jpg"
     },
     "ursaring": {
@@ -9933,7 +15158,62 @@
             "Scarlet": "It usually wears a hardened expression, but when it’s licking up honey—which it loves—the joy it feels will cause it to break into a wide grin.",
             "Violet": "It is quite skilled at climbing trees. If it comes across a Primeape while searching for berries in the treetops, trouble will surely ensue."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "super-effective": 2.0
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "no effect": 0.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/ursaring.jpg"
     },
     "wobbuffet": {
@@ -10034,7 +15314,62 @@
             "Brilliant Diamond": "It desperately tries to keep its black tail hidden. This behavior is said to be proof that its tail hides a secret.",
             "Shining Pearl": "It desperately tries to keep its black tail hidden. This behavior is said to be proof that its tail hides a secret."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "normal effectiveness": 1.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "normal effectiveness": 1.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "normal effectiveness": 1.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "super-effective": 2.0
+            },
+            "rock": {
+                "normal effectiveness": 1.0
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/wobbuffet.jpg"
     },
     "wooper": {
@@ -10141,7 +15476,62 @@
             "Brilliant Diamond": "It lives in cold water, half burying itself in mud at the bottom to sleep.",
             "Shining Pearl": "When the temperature cools in the evening, they emerge from water to seek food along the shore."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "super-effective": 2.0
+            },
+            "electric": {
+                "no effect": 0.0
+            },
+            "grass": {
+                "normal effectiveness": 1.0
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "not very effective": 0.5
+            },
+            "poison": {
+                "not very effective": 0.25
+            },
+            "ground": {
+                "super-effective": 2.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "super-effective": 2.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "not very effective": 0.5
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "not very effective": 0.5
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/wooper.jpg"
     },
     "xatu": {
@@ -10245,7 +15635,62 @@
             "ShieldBrilliant Diamond": "This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day.",
             "Shining Pearl": "This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "normal effectiveness": 1.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "not very effective": 0.5
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "not very effective": 0.25
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "normal effectiveness": 1.0
+            },
+            "psychic": {
+                "not very effective": 0.5
+            },
+            "bug": {
+                "normal effectiveness": 1.0
+            },
+            "rock": {
+                "super-effective": 2.0
+            },
+            "ghost": {
+                "super-effective": 2.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "super-effective": 2.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/xatu.jpg"
     },
     "yanma": {
@@ -10345,7 +15790,62 @@
             "Shining Pearl": "Its eyes can see 360 degrees without the Pokémon moving its head. It won’t miss prey— even those behind it.",
             "Legends: Arceus": "Its frail wings are so thin that one can see clear through them. However, during flight these wings exhibit the power to churn air with force enough to launch a house skyward."
         },
-        "types_effect": null,
+        "types_effect": {
+            "normal": {
+                "normal effectiveness": 1.0
+            },
+            "fire": {
+                "super-effective": 2.0
+            },
+            "water": {
+                "normal effectiveness": 1.0
+            },
+            "electric": {
+                "super-effective": 2.0
+            },
+            "grass": {
+                "not very effective": 0.25
+            },
+            "ice": {
+                "super-effective": 2.0
+            },
+            "fighting": {
+                "not very effective": 0.25
+            },
+            "poison": {
+                "normal effectiveness": 1.0
+            },
+            "ground": {
+                "no effect": 0.0
+            },
+            "flying": {
+                "super-effective": 2.0
+            },
+            "psychic": {
+                "normal effectiveness": 1.0
+            },
+            "bug": {
+                "not very effective": 0.5
+            },
+            "rock": {
+                "super-effective": 4.0
+            },
+            "ghost": {
+                "normal effectiveness": 1.0
+            },
+            "dragon": {
+                "normal effectiveness": 1.0
+            },
+            "dark": {
+                "normal effectiveness": 1.0
+            },
+            "steel": {
+                "normal effectiveness": 1.0
+            },
+            "fairy": {
+                "normal effectiveness": 1.0
+            }
+        },
         "img_link": "https://img.pokemondb.net/artwork/yanma.jpg"
     }
 }
