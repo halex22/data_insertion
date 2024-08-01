@@ -22,7 +22,7 @@ def clean_pokedex_data(raw_pokedex_data: PokedexData) -> CleanedPokedexData:
     cleaned_podex_data["weight"] = strip_value_from_unit(
         value=raw_pokedex_data["weight"].split(" ")[0], format=float)
 
-    cleaned_podex_data["abilities"] = get_abilities_list(
+    cleaned_podex_data["abilities"] = get_abilities(
         raw_pokedex_data["abilities"])
     cleaned_podex_data["local"] = local_pokedex_cleaner(
         raw_pokedex_data["local"]
