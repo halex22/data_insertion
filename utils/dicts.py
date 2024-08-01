@@ -18,7 +18,7 @@ class CleanedPokedexData(TypedDict):
     height: float
     weight: float
     abilities: List[str]
-    local: str
+    local: Dict[str, int]
 
 
 class Training(TypedDict):
@@ -55,6 +55,8 @@ class PokemonDict(TypedDict):
     training: Training
     breeding: Breeding
     pokedex_entries: str
+    types_effect: dict
+    img_link: str | None
 
 
 class CleanedPokemonDict(TypedDict):
@@ -63,3 +65,5 @@ class CleanedPokemonDict(TypedDict):
     trainig: CleanedTraining
     breeding: CleanedBreeding
     pokedex_entries: str
+    types_effect: dict
+    img_link: str | None

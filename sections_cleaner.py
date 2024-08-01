@@ -1,3 +1,4 @@
+from additional_data import get_abilities
 from data_clening import (cath_rate, clean_gender, dict_with_cats, ev_cleaner,
                           get_abilities_list, get_types_list,
                           local_pokedex_cleaner, parse_str_to_number,

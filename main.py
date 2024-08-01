@@ -2,6 +2,7 @@ import json
 import os
 from pathlib import Path
 
+from additional_data import clean_types_effect, entries_cleaner
 from sections_cleaner import (clean_base_stats, clean_breed_stats,
                               clean_pokedex_data, clean_training_stats)
 from utils import CleanedPokemonDict, PokemonDict
@@ -30,7 +31,11 @@ for gen_file in os.scandir(DATA_DIR):
 
         cleaned_info["training"] = clean_training_stats(pokemon_data["training"])
 
-        cleaned_info["pokedex_entries"] = pokemon_data["pokedex_entries"]
+        cleaned_info["pokedex_entries"] = entries_cleaner(pokemon_data["pokedex_entries"])
+
+        cleaned_info["types_effect"] = clean_types_effect(pokemon_data["types_effect"])
+
+        cleaned_info['img_link'] = pokemon_data ["img_link"]
 
         gen_dict[pokemon_name] = cleaned_info
 

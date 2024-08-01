@@ -49,19 +49,14 @@ def cath_rate(value: str) -> Dict[str, Union[int, str]]:
 
 
 def local_pokedex_cleaner(value: str) -> Dict[str, int]:
-    result = {}
-    values = value.split(')')[:-1]
-    for _ in values:
-        pokemon_index, keys = _.split('(')
-        separated_kyes = [_ for _ in keys.split('/')]
-        for key in separated_kyes:
-            if ' — ' in key:
-                parts = key.split(' — ')
-                for part in parts:
-                    result[part.strip()] = int(pokemon_index)
-            else:
-                result[key.strip()] = int(pokemon_index)
-    return result
+    local_dex_dict = {}
+    value = value.replace('—' , '/')
+    sections = value.split(')')[:-1]
+    for section in sections:
+        pokedex_index, games = section.split('(')
+        for game in games.split('/'):
+            local_dex_dict[game.strip()] = int(pokedex_index)
+    return local_dex_dict
 
 
 def pokedex_entry_cleaner(value: str) -> Dict[str, str]:

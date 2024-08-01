@@ -1,5 +1,6 @@
 import json
 from pathlib import Path
+from typing import List, Optional
 
 path_test = Path('./json_data')
 
@@ -23,6 +24,14 @@ def handle_multi_abilities(abilties_array: list) -> list:
         abilties_array = [abilties_array[0], *cleaned_abilities]
     return abilties_array
 
+def populate_dict(abilities:list) -> dict:
+    abilities_dict = {'normal': [], 'hidden': ''}
+    for ability in abilities:
+        if ability[-1] == ')':
+            abilities_dict['hidden'] = ability.split('(')[0].strip()
+        else:
+            abilities_dict['normal'].append(ability)
+    return abilities_dict
 
 def get_abilities(data: str):
     abilities = data.split('.')[1:]
@@ -30,7 +39,7 @@ def get_abilities(data: str):
         abilities = handle_multi_abilities(abilities)
     if abilities[0][-1] == ")":
         abilities = strip_hidden(ability=abilities[0].strip())
-    return abilities
+    return populate_dict(abilities=abilities)
 
 
 if test_batch:
