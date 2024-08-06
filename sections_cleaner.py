@@ -27,15 +27,19 @@ def clean_pokedex_data(raw_pokedex_data: PokedexData) -> CleanedPokedexData:
     cleaned_podex_data["local"] = local_pokedex_cleaner(
         raw_pokedex_data["local"]
     )
-    
+
     return cleaned_podex_data
 
 
-def clean_base_stats(raw_data: dict ) -> dict:
+def clean_base_stats(raw_data: dict) -> dict:
     cleaned_base_stats = {}
-    for stat in BaseStats._member_names_:
-        cleaned_base_stats[stat] = parse_str_to_number(
-            raw_data[stat], format=int)
+    for key, value in raw_data.items():
+        cleaned_key = key.replace('.', '').replace(' ', '_')
+        cleaned_base_stats[cleaned_key] = value
+
+    # for stat in BaseStats._member_names_:
+    #     cleaned_base_stats[stat] = parse_str_to_number(
+    #         raw_data[stat], format=int)
     return cleaned_base_stats
 
 
@@ -54,7 +58,7 @@ def clean_breed_stats(raw_data: Breeding) -> CleanedBreeding:
 
 
 def clean_training_stats(raw_data: Training) -> CleanedTraining:
-    cleaned_training_data: CleanedTraining = {} 
+    cleaned_training_data: CleanedTraining = {}
     cleaned_training_data["base_exp"] = (
         lambda val: val if isinstance(val, int) else 0
     )(raw_data["base_exp"])
@@ -70,4 +74,3 @@ def clean_training_stats(raw_data: Training) -> CleanedTraining:
         value=raw_data["catch_rate"]
     )
     return cleaned_training_data
-

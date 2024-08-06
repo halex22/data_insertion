@@ -1,45 +1,62 @@
 import json
 import os
+import shutil
 from pathlib import Path
 
-from additional_data import clean_types_effect, format_pokemon_entries
+from additional_data import clean_pleaces, clean_types_effect
 from sections_cleaner import (clean_base_stats, clean_breed_stats,
                               clean_pokedex_data, clean_training_stats)
-from utils import CleanedPokemonDict, PokemonDict
+from utils.dirs import dir_handler
 
-DATA_DIR = Path("./json_data") # info input dir 
-NEW_DATA_DIR = Path("./cleaned json") # info output dir 
+DATA_DIR = Path("./pokemon json")  # info input dir
+NEW_DATA_DIR = Path("./cleaned pokemon json")  # info output dir
+
+stats_mapper = {
+    'breeding': clean_breed_stats,
+    'base_stats': clean_base_stats,
+    'types_effect': clean_types_effect,
+    'pokédex_data': clean_pokedex_data,
+    'training': clean_training_stats,
+    'where_to_find': clean_pleaces
+}
+
+copy_only_stats = ['pokédex_entries', 'img_link',
+                   'other_languages', 'where_to_find']
 
 
-for gen_file in os.scandir(DATA_DIR):
-    gen_dict = {}
-    gen_name = gen_file.name
+if __name__ == '__main__':
+    dir_handler(NEW_DATA_DIR)
+    for generation in DATA_DIR.iterdir():
+        target_gen_dir_to_populate = NEW_DATA_DIR / generation.stem
+        dir_handler(target_gen_dir_to_populate)
 
-    with open(gen_file, mode="r", encoding="utf8") as file:
-        data: dict = json.load(file)
+        # iterate through the pokemons in the generation
+        for pokemon in generation.iterdir():
+            current_poke_name = pokemon.stem
+            print(f'Cleaning {current_poke_name} info')
 
-    for pokemon_name in data.keys():
-        cleaned_info: CleanedPokemonDict = {}
-        print(f'Cleaning {pokemon_name} info...')
-        pokemon_data: PokemonDict = data[pokemon_name]
+            target_cleaned_poke_dir = target_gen_dir_to_populate / current_poke_name
 
-        cleaned_info["pokedex_data"] = clean_pokedex_data(pokemon_data["pokedex_data"])
+            # check if the cleaned pokemon dir exits
+            dir_handler(target_cleaned_poke_dir)
 
-        cleaned_info["base_stats"] = clean_base_stats(pokemon_data["base_stats"])
+            # iterate through the pokemon info
+            for stat in pokemon.iterdir():
+                stat_name = stat.stem
 
-        cleaned_info["breeding"] = clean_breed_stats(pokemon_data['breeding'])
+                if stat_name in copy_only_stats:
+                    shutil.copy(stat, target_cleaned_poke_dir)
 
-        cleaned_info["training"] = clean_training_stats(pokemon_data["training"])
+                if not stat_name in stats_mapper.keys():
+                    continue
 
-        cleaned_info["pokedex_entries"] = format_pokemon_entries(pokemon_data["pokedex_entries"])
+                cleaner = stats_mapper[stat_name]
 
-        cleaned_info["types_effect"] = clean_types_effect(pokemon_data["types_effect"])
+                with open(stat, mode='r', encoding='utf8') as input_file:
+                    raw_data = json.load(input_file)
 
-        cleaned_info['img_link'] = pokemon_data ["img_link"]
+                cleaned_info = cleaner(raw_data)
+                cleaned_stat_file_path = target_cleaned_poke_dir / stat.name
 
-        gen_dict[pokemon_name] = cleaned_info
-
-    cleaned_file = NEW_DATA_DIR / gen_name
-
-    with open(cleaned_file, mode='w', encoding='utf8') as file:
-        json.dump(gen_dict, file, ensure_ascii=False)
+                with open(cleaned_stat_file_path, mode='w', encoding='utf8') as output_file:
+                    json.dump(cleaned_info, output_file, ensure_ascii=False)

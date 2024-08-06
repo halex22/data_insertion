@@ -24,7 +24,8 @@ def handle_multi_abilities(abilties_array: list) -> list:
         abilties_array = [abilties_array[0], *cleaned_abilities]
     return abilties_array
 
-def populate_dict(abilities:list) -> dict:
+
+def populate_dict(abilities: list) -> dict:
     abilities_dict = {'normal': [], 'hidden': ''}
     for ability in abilities:
         if ability[-1] == ')':
@@ -32,6 +33,7 @@ def populate_dict(abilities:list) -> dict:
         else:
             abilities_dict['normal'].append(ability)
     return abilities_dict
+
 
 def get_abilities(data: str):
     abilities = data.split('.')[1:]
@@ -42,14 +44,15 @@ def get_abilities(data: str):
     return populate_dict(abilities=abilities)
 
 
-if test_batch:
-    ...
+if __name__ == '__main__':
+    if test_batch:
+        ...
 
-else:
-    test_gen = next(path_test.iterdir())
-    with open(test_gen, mode='r', encoding='utf8') as file:
-        data: dict = json.load(file)
+    else:
+        test_gen = next(path_test.iterdir())
+        with open(test_gen, mode='r', encoding='utf8') as file:
+            data: dict = json.load(file)
 
-    for pokemon_name in data.keys():
-        pokemon_data = data[pokemon_name]
-        print(get_abilities(pokemon_data['pokedex_data']['abilities']))
+        for pokemon_name in data.keys():
+            pokemon_data = data[pokemon_name]
+            print(get_abilities(pokemon_data['pokedex_data']['abilities']))
