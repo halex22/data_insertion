@@ -21,7 +21,7 @@ def get_abilities_list(value: str) -> List[str]:
 
 
 def clean_egg_group(groups: List[str]) -> List[str]:
-    cleaned_eggs = [clean_name_egg_group(group) for group in groups if len(group) > 2]
+    cleaned_eggs = [clean_name_egg_group(group) for group in groups if group is not None and  len(group) > 2 ]
     return cleaned_eggs
 
 

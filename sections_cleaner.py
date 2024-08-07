@@ -1,8 +1,8 @@
 from additional_data import get_abilities
-from data_clening import (cath_rate, clean_gender, dict_with_cats, ev_cleaner,
-                          get_abilities_list, get_types_list,
-                          local_pokedex_cleaner, parse_str_to_number,
-                          strip_value_from_unit)
+from data_clening import (cath_rate, clean_egg_group, clean_gender,
+                          dict_with_cats, ev_cleaner, get_abilities_list,
+                          get_types_list, local_pokedex_cleaner,
+                          parse_str_to_number, strip_value_from_unit)
 from utils import (Breeding, CleanedBreeding, CleanedPokedexData,
                    CleanedTraining, PokedexData, Training)
 from utils.enums import BaseStats
@@ -48,6 +48,8 @@ def clean_breed_stats(raw_data: Breeding) -> CleanedBreeding:
     cleaned_breeding_stats["egg_groups"] = get_types_list(
         value=raw_data['egg_groups']
     )
+
+    cleaned_breeding_stats["egg_groups"] = clean_egg_group(cleaned_breeding_stats["egg_groups"])
 
     cleaned_breeding_stats["egg_cycles"] = dict_with_cats(
         raw_data["egg_cycles"]
