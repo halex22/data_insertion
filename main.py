@@ -25,6 +25,7 @@ copy_only_stats = ['pokédex_entries', 'img_link',
 
 
 if __name__ == '__main__':
+    
     dir_handler(NEW_DATA_DIR)
     for generation in DATA_DIR.iterdir():
         target_gen_dir_to_populate = NEW_DATA_DIR / generation.stem
@@ -48,15 +49,17 @@ if __name__ == '__main__':
                     shutil.copy(stat, target_cleaned_poke_dir)
 
                 if not stat_name in stats_mapper.keys():
-                    continue
+                    continue # in case new stats are added but the cleaner is not implemented 
 
                 cleaner = stats_mapper[stat_name]
 
+                # read the stat json file
                 with open(stat, mode='r', encoding='utf8') as input_file:
                     raw_data = json.load(input_file)
 
                 cleaned_info = cleaner(raw_data)
                 cleaned_stat_file_path = target_cleaned_poke_dir / stat.name
 
+                # save the cleaned data 
                 with open(cleaned_stat_file_path, mode='w', encoding='utf8') as output_file:
                     json.dump(cleaned_info, output_file, ensure_ascii=False)
