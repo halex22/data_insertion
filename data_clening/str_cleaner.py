@@ -1,3 +1,4 @@
+from functools import lru_cache
 from typing import Callable, Union
 
 
@@ -42,5 +43,12 @@ def format_name(value: str) -> str:
     return value.replace('.', '').replace(' ', '_')
 
 
+@lru_cache
+def clean_name_egg_group(value: str) -> str:
+    if not value[-1].isalpha():
+        return value[:-1]
+    return value
+
+
 if __name__ == '__main__':
-    ...
+    print(clean_name_egg_group('bug,'))

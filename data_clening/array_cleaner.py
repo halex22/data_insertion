@@ -1,7 +1,10 @@
 from typing import List, Union
 
+from .str_cleaner import clean_name_egg_group
+
 test_values = ['Poison ', ' Ice Flying ', ' Psychic ']
 abilities =  "1. Synchronize2. Inner FocusMagic Guard (hidden ability)"
+eggs = ['Bug,', 'Water', '1']
 
 
 def get_types_list(value: str) -> Union[List[str], List[Union[str, None]]]:
@@ -17,7 +20,14 @@ def get_abilities_list(value: str) -> List[str]:
     return abilities
 
 
+def clean_egg_group(groups: List[str]) -> List[str]:
+    cleaned_eggs = [clean_name_egg_group(group) for group in groups if len(group) > 2]
+    return cleaned_eggs
+
+
+
 if __name__ == '__main__':
-    print(get_abilities_list(abilities))
+    print(clean_egg_group(eggs))
+    # print(get_abilities_list(abilities))
     # for _ in test_values:
     #     print(get_types_list(_))

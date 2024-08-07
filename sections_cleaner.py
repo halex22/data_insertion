@@ -48,6 +48,7 @@ def clean_breed_stats(raw_data: Breeding) -> CleanedBreeding:
     cleaned_breeding_stats["egg_groups"] = get_types_list(
         value=raw_data['egg_groups']
     )
+
     cleaned_breeding_stats["egg_cycles"] = dict_with_cats(
         raw_data["egg_cycles"]
     )
